@@ -1,0 +1,166 @@
+body{
+    background-image:  url(/imege/1582019479_30-p-yasnoe-nebo-45.jpg);
+    background-repeat: no-repeat;
+}
+.box{
+    transition: 5s all;
+    position: relative;
+    width: 3em;
+    height: 3em;
+    margin: 2em;
+    background: #D5DEE9;
+    border-width: 0.25em;
+    border-style: solid;
+    border-color: #D5DEE9;
+    border-radius: 50% 50% 0 0;
+}
+.box:before,
+.box:after{
+    content:"";
+    position: absolute;
+    bottom: -0.25em;
+    background: inherit;
+    border-width: 00.25em;
+    border-right: solid;
+    border-color: #6e839e;
+}
+.box:before{
+    left: 80%;
+    width: 60%;
+    height:60%;
+    border-left: none;
+    border-radius: 50% 50% 50% 0;
+}
+.box:after{
+    right: 80%;
+    width: 80%;
+    height: 80%;
+    border-right: none;
+    border-radius: 50% 50% 0;
+}
+
+
+.box1{
+    position: relative;
+    width: 3em;
+    height: 3em;
+    margin: 2em;
+    background: #D5DEE9;
+    border-width: 0.25em;
+    border-style: solid;
+    border-color: #D5DEE9;
+    border-radius: 50% 50% 0 0;
+}
+.box1:before,
+.box1:after{
+    content:"";
+    position: absolute;
+    bottom: -0.25em;
+    background: inherit;
+    border-width: 00.25em;
+    border-right: solid;
+    border-color: #6e839e;
+}
+.box1:before{
+    left: 80%;
+    width: 60%;
+    height:60%;
+    border-left: none;
+    border-radius: 50% 50% 50% 0;
+}
+.box1:after{
+    right: 80%;
+    width: 80%;
+    height: 80%;
+    border-right: none;
+    border-radius: 50% 50% 0;
+}
+
+.box2{
+    position: relative;
+    width: 3em;
+    height: 3em;
+    margin: 2em;
+    background: #D5DEE9;
+    border-width: 0.25em;
+    border-style: solid;
+    border-color: #D5DEE9;
+    border-radius: 50% 50% 0 0;
+}
+.box2:before,
+.box2:after{
+    content:"";
+    position: absolute;
+    bottom: -0.25em;
+    background: inherit;
+    border-width: 00.25em;
+    border-right: solid;
+    border-color: #6e839e;
+}
+.box2:before{
+    left: 80%;
+    width: 60%;
+    height:60%;
+    border-left: none;
+    border-radius: 50% 50% 50% 0;
+}
+.box2:after{
+    right: 80%;
+    width: 80%;
+    height: 80%;
+    border-right: none;
+    border-radius: 50% 50% 0;
+}
+
+.box3{
+    position: relative;
+    width: 3em;
+    height: 3em;
+    margin: 2em;
+    background: #D5DEE9;
+    border-width: 0.25em;
+    border-style: solid;
+    border-color: #D5DEE9;
+    border-radius: 50% 50% 0 0;
+}
+.box3:before,
+.box3:after{
+    content:"";
+    position: absolute;
+    bottom: -0.25em;
+    background: inherit;
+    border-width: 00.25em;
+    border-right: solid;
+    border-color: #6e839e;
+}
+.box3:before{
+    left: 80%;
+    width: 60%;
+    height:60%;
+    border-left: none;
+    border-radius: 50% 50% 50% 0;
+}
+.box3:after{
+    right: 80%;
+    width: 80%;
+    height: 80%;
+    border-right: none;
+    border-radius: 50% 50% 0;
+}
+div{
+    animation-name: salom;
+    animation-iteration-count: initial;
+    position: relative;
+    animation-duration: 15s;
+    transition: linear;
+    box-shadow: 10px 10px 10px #020407;
+}
+@keyframes salom {
+0%{
+    left: 100%;
+    
+}
+100%{
+    left: 0%
+}
+}

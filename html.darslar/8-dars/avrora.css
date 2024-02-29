@@ -1,0 +1,161 @@
+body{
+    background-color:#F7F7F7;
+}
+.bos{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+.lol{
+    width: 800px;
+    height: 40px;
+    border-radius: 50px;
+    position: absolute;
+    top: 20px;
+    left: 140px;
+    background-color: rgb(189, 189, 189);
+    color: #000000;
+
+    
+    }
+     
+
+.lox{
+    width: 70px;
+    height: 60px;
+    border: 2px solid ;
+    position: absolute;
+    left: 60px;
+    top: 5px;
+    border-radius: 300px;
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+}
+.vov{
+    width: 50px;
+    height: 25px;
+    position: absolute;
+    top: 30px;
+    right: 80px;
+    
+}
+.myu{
+    width: 50px;
+    height: 25px;
+    position: absolute;
+    top: 30px;
+    right: 10px;
+}
+.pop1{
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    top: 1020px;
+    left: 659px;
+    border-radius: 40px;
+    
+}
+.pop2{
+     width: 200px;
+    height: 400px;
+    position: absolute;
+    top: 1020px;
+    left: 230px;
+    border-radius: 40px;
+}
+.pop3{
+    width: 300px;
+    height: 300px;
+    border-radius: 40px;
+    position: absolute;
+    top: 4000px;
+    right: 0px;
+}
+.pop{
+    width: 440px;
+    height: 600px;
+    position: absolute;
+    top: 5000px;
+    left: 320px;
+}
+.pop{
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    top: 1020px;
+    left: 10px;
+    border-radius: 40px;
+}
+.pop5{
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    top: 1020px;
+    left: 450px;
+    border-radius: 40px;
+}
+.pop0{
+    width: 490px;
+    height: 490px;
+    position: absolute;
+    top: 100px;
+    left: 10px;
+    border-radius: 20px;
+}
+.pop11{
+    width: 490px;
+    height: 490px;
+    position: absolute;
+    left: 580px;
+    top: 100px;
+    border-radius: 20px;
+}
+.pop12{
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    top: 600px;
+    left: 10px;
+    border-radius: 40px;
+}
+.pop9{
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    top: 600px;
+    left: 240px;
+    border-radius: 40px;
+}
+.pop8{
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    top: 600px;
+    left: 474px;
+    border-radius: 40px;
+}
+.pop7{
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    top: 600px;
+    left: 700px;
+    border-radius: 40px;
+}
+.pop6{
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    top: 600px;
+    left: 920px;
+    border-radius: 40px;
+}
+.pop3{
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    top: 1020px;
+    right: 10px;
+    border-radius: 40px;
+}

@@ -1,0 +1,219 @@
+/* .box1{
+    width: 100%;
+    height: 200px;
+    border: 2px solid;
+    border-color: rgb(0, 0, 0);
+border-radius: 10PX;} */
+.box2{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    background-image: url(/frenk/5555.jpg);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10PX;
+    margin-top: -50px;
+}
+.box3{
+    width: 200px;
+    height:40px;
+    
+    position: absolute;
+    top: 20px;
+    left: 850px;
+    
+}
+body{
+    width: 100%;
+    
+    background-color: rgb(0, 0, 0);
+}
+.soska{
+    color: rgb(236, 236, 236);
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    left: 25px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+.box5{
+    background-image: url(/frenk/7777777.jpg);
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 20px;
+    right: 5px;
+    
+}
+.preloader {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    /* фоновый цвет */
+    background: #ffffff;
+    z-index: 1001;
+  }
+  
+  .preloader__image {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    width: 70px;
+    height: 70px;
+    margin-top: -35px;
+    margin-left: -35px;
+    text-align: center;
+    animation: preloader-rotate 2s infinite linear;
+  }
+  
+  @keyframes preloader-rotate {
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .loaded_hiding .preloader {
+    transition: 0.3s opacity;
+    opacity: 0;
+  }
+  
+  .loaded .preloader {
+    display: none;
+  }
+  .bibi{
+   width: 200px;
+   height: 200px;
+   border: solid; 
+   position: absolute;
+   left: 120px;
+
+background-image: url(/jojo/Эконом.jpg  );
+  }
+  .krug{
+      width: 50px;
+      height: 50px;
+      background-color: yellow;
+      border-radius: 90px;
+      position: absolute;
+      top: 300px;
+      left: 200px;
+  }
+  .komfort{
+      width: 200px;
+      height: 150px;
+      border: solid;
+      background-image: url(/jojo/Комфорт.jpg);
+      position: absolute;
+      left: 450px;
+      top: 150px;
+
+  }
+  .krug2{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 90px;
+    position: absolute;
+    top: 300px;
+    left: 530px;
+    
+    
+  }
+  #biznes{
+      width: 200px;
+      height: 190px;
+      border: solid;
+      background-image: url(/jojo/Бизнес.jpg);
+      position: absolute;
+      left: 800px;
+      top: 140px;
+  }
+  .krug3{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 90px;
+    position: absolute;
+    top: 300px;
+    left: 870px;
+  }
+  .bobo{
+      color: white;
+      position: absolute;
+      top: 370px;
+     text-decoration: double;
+      left: 150px;
+
+  }
+
+  .kal{
+      color: #ffffff;
+      position: absolute;
+      top: 370px;
+      left: 470px;
+  }
+  .biznes{
+      color: #ffffff;
+      position: absolute;
+      top: 370px;
+      left: 830px;
+  }
+.telega{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 900px;
+}
+.golava{
+    width: 100%;
+    height: 50px;
+    top: 470px;
+    background-color: #f7f7f700;
+    position: absolute;
+    left: 0px;
+    
+}
+.social {display: inline-block;}
+.social a {
+	display: block;
+	width: 48px;
+	height: 48px;
+	margin: 0 10px 10px 0;
+	text-align: center;
+	color: #000;
+    top: 800px;
+    position: relative;
+    left: 390px;
+	background: #fff;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+}
+.social a:hover {color: #fff;}
+.social svg {
+	margin-top: 7px;
+	width: 32px;
+	height: 32px;
+}
+.facebook a:hover {background: #3b5998;}
+.instagram a:hover {background: #3f729b;}
+.telegram a:hover {background: #249bd7;}
+.twitter a:hover {background: #00acee;}
+.youtube a:hover {background: #c4302b;}
+
+.ree {
+    position: absolute;
+    top: 850px;
+    color: #fff;
+    left: 220px;
+}
+
+.foto{
+    color: #ccc;
+    top: 350px;
+    position: relative;
+    text-align: center;
+}

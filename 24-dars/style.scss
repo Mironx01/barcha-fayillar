@@ -1,0 +1,56 @@
+// $color:#f4f4f4f4;
+// $margin:12px 23px 34px 45px;
+// $fontfamily:Lucida Lucida Lucida
+
+
+
+// // $varname:value
+
+// .box{
+//     h1{
+//         color: $color;
+//         border: 2px solid $color
+//     }
+
+// }
+
+
+// body{
+//     background-color: black;
+// }
+
+// .box2{
+//     $razmer:130px;
+//     h1{
+//         font-size:$razmer;
+//     }
+// }
+$universal:("size1":14px,"size2");
+@use"sass:map";
+
+
+
+.box{
+    h1{
+        font-size: map-get($universal,"bold");
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

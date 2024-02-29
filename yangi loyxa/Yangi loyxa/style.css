@@ -1,0 +1,30 @@
+.icons__color-bluee {
+    color: blue;
+}
+
+
+.ex2 {
+    height: 37.5rem;  
+    overflow-y: hidden;
+  }
+  
+  .ex2 img {
+    height: 58rem;
+  }
+.bi-heart-fill{
+    color: red;
+    
+}
+.bi-stack{
+    color:green;
+   
+}
+.bi-eye{
+    color: blue;
+}
+.lol5{
+    font-family: Raleway;
+}
+.lol6{
+    font-family: Lato;
+}

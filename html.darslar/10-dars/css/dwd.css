@@ -1,0 +1,19 @@
+input:focus{
+    background-color: yellow;
+    color: ;
+}
+p::first-letter{
+    font-size:100px;
+    color: blueviolet;
+}
+::first-line{
+    color: brown;
+    font-size: 59px;
+}
+h1::before{
+    content:url(../imege/1.jpg)
+}
+h1::after{
+    content: url(../imege/1.jpg);
+}
+marker

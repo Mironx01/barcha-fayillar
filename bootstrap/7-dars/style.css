@@ -1,0 +1,67 @@
+/* columns */
+/* .row{
+    min-height: 10rem;
+    margin-top: 20px;
+    background-color: green;
+}
+.row>div{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: red;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+} */
+
+/* aligment */
+/* .row{
+    margin-top: 20px;
+    background-color: green;
+}
+.row>div{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: red;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+} */
+
+/* column wrapping */
+
+/* .row>div{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: red;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+} */
+
+/* reordering */
+.row{
+    margin-top: 20px;
+    background-color: green;
+}
+.row>div{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: red;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+}
+
+/* offsetinf columns */
+.row{
+    margin-top: 20px;
+    background-color: green;
+}
+.row>div{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: red;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+}

@@ -1,0 +1,15 @@
+
+body{
+    background-color: rgb(211, 118, 248);
+}
+.avrora{
+    width: 150px;
+    height: 70px;
+    border: 2px solid rgb(85, 85, 85);
+    position: absolute;
+    top: 20px;
+    left: 450px;
+    text-align: center;
+    background-color: rgb(83, 105, 105);
+    color: rgb(0, 29, 54);
+}

@@ -1,0 +1,734 @@
+body {
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #BFD9F2;
+}
+
+
+/* Bosh Sahifa */
+.bosh__sahifa{
+    width: 100%;
+    height: 80px;
+    background-color: #BFD9F2;
+    margin-top: -0.6%;
+    margin-left: -0.6%;
+    box-shadow: 0px 1px 10px 0px rgba(108, 100, 133, 0.808);
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+}
+
+.bosh__sahifa .container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    display: inline-block;
+    margin-left: 70px;
+}
+
+.logo-imge img {
+    margin-top: 13%;
+    margin-left: 60%;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.bosh__menu{
+    display: inline-block;
+    position:absolute;
+    top: 4px;
+    right: 220px; 
+    display: flex;
+}
+
+.bosh__menu a{
+    display: inline-block;
+    font-weight: bold;
+}
+
+.menu {
+    display: inline-block;
+    font-size: 16px;
+}
+
+.menu a {
+    text-decoration: none;
+    padding: 10px;
+    color: #212529;
+    font-weight: bold;
+}
+
+.qabul button {
+    position: absolute;
+    top: 17px;
+    right: 110px;
+    background-color: #0065C9;
+    color: white;
+    font-size: 14px;
+    border-radius: 5px;
+    border: none;
+    padding: 16px 24px;
+    display: inline-block;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+/* /Bosh Sahifa*/
+
+/*Main section*/
+
+.baner {
+    padding: 250px;
+    width: 100%;
+}
+
+.baner_info {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.baner-brand__imge img {
+    position: absolute;
+    width: 100%;
+    height: 800px;
+    left: 0px;
+    top: 0px;
+    z-index: -1;   
+    filter: brightness(0.5);
+}
+
+.baner-brand__text {
+    margin-top: 200px;
+}
+
+.baner-brand__text h3 {
+    color: white;
+    margin-top: -20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.baner-brand__text h1 {
+    color: white;
+    margin-top: -105px;
+    font-size: 40px;
+}
+
+.baner-button {
+    border: none;
+    background: #BFD9F2;
+    font-size: 10px;
+    padding: 28px 40px;
+    cursor: pointer;
+    border-radius: 7px;
+    transition: all 0.7s ease-in-out;
+    display: inline-block;
+}
+
+.baner-button {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    color: #212529;
+}
+
+
+.tugma1 {
+    margin-left: 270px;
+    margin-top: -100px;
+}
+
+.buton-whiti {
+    color: white;
+}
+
+.tugma1 button {
+    background-color: #0065C9;
+}
+
+.tugma2 {
+    margin-left: 560px;
+    margin-top: -75px;
+}
+
+.tugma2 button {
+    background-color: white;
+}
+
+.tugma3 {
+    margin-left:10px;
+    margin-top: 90px;
+}
+
+.tugma4 {
+    margin-left: 250px;
+    margin-top: -140px;
+}
+
+.tugma5 {
+    margin-left: 490px;
+    margin-top: -140px;
+}
+
+.tugma6 {
+    margin-left: 760px;
+    margin-top: -140px;
+}
+
+.baner-text {
+    color: white;
+    width: 250px;
+    text-align: center;
+    margin-left: -30px;
+}
+
+.ozihiqida {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    margin-top: -30px;
+    color: #171130;
+}
+
+.unver h1 {
+    font-size: 40px;
+    height: 30px;
+}
+
+.unver p {
+    padding: 50px;
+    font-weight: bold;
+    margin-top: -30px;
+}
+
+.quti {
+    width: 420px;
+    height: 490px;
+    background-color: white;
+    display: inline-block;
+    border-radius: 3%;
+    margin-top: 350px;
+    margin-left: 85px;
+}
+
+.quti img {
+    width: 370px;
+    height: 230px;
+    border-radius: 2%;
+    margin-left: 26px;
+}
+
+.quti h3 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-left: 26px;
+    height: 15px;
+    width: 100%;
+    color: #171130;
+}
+
+.quti p {
+    font-size: 18px;
+    margin-left: 26px;
+    font-weight: bold;
+    height: 10px;
+    color: #171130;
+}
+
+.quti1 {
+    margin-left: 30px;
+    position: absolute;
+}
+
+.quti2 {
+    margin-left: 485px;
+    position: absolute;
+}
+
+.h1-haqida {
+    text-align: center;
+    margin-top: 190px;
+    font-size: 23px;
+    color: #171130;
+    height:100px;
+}
+
+.imges img{
+    width: 1240px;
+    margin-left: 150px;
+    border-radius: 1%;
+
+}
+
+.rasmlar {
+    width: 1242px;
+    margin-left: 150px;
+    border-radius: 1%;
+    margin-top: 8px;
+}
+
+.rasmlar img {
+    width: 302px;
+    height: 230px;
+    margin-left: 5px;
+    border-radius: 3%;
+}
+
+.video-oxu {
+    margin-top: 200px;
+}
+
+.oxu-uz {
+    text-align: center;
+    height: 120px;
+}
+
+
+.oxu-uz h1 {
+    color: #171130;
+    font-size: 40px;
+}
+
+.video video{
+    width: 1300px;
+    margin-left: 100px;
+}
+
+.pastkiqismi-oq {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: -0.5%;
+    position: relative;
+    top: 0;
+    margin-bottom: -0.5%;
+}
+
+.boshidagi-soz h1 {
+    text-align: center;
+    color: #171130;
+    font-size: 43px;
+}
+
+.sozboshi1{
+    height: 150px;
+}
+
+
+.koring {
+    width: 370px;
+    height: 620px;
+    background-color: #BFD9F2;
+    display: inline-block;
+    border-radius: 5%;
+    margin-top: 80px;
+    margin-left: 140px;
+    box-shadow: 0px 1px 16px 0px rgba(108, 100, 133, 0.808);
+}
+
+.koring1 {
+
+    margin-left: 60px;
+    position: absolute;
+}
+
+.koring2 {
+    margin-left: 495px;
+    position: absolute;
+}
+
+.koring h2{
+    font-size: 33px;
+    text-align: center;
+    margin-top: 92px;
+    font-weight: bold;
+    color: #171130;
+}
+
+.koring1 h3 {
+    font-size: 33px;
+    text-align: center;
+    margin-top: 107px;
+    font-weight: bold;
+    color: #171130;
+}
+
+.koring2 h3 {
+    font-size: 33px;
+    text-align: center;
+    margin-top: 107px;
+    font-weight: bold;
+    color: #171130;
+}
+
+.koring p{
+    font-size: 22px;
+    margin-left: 30px;
+    height: 30px;
+    color: #5a5480;
+    text-align: center;
+}
+
+.text-hght {
+    margin-top: -20px;
+}
+
+.tugmacha3 button{
+    border: none;
+    background-color: #0065C9;
+    font-size: 10px;
+    padding: 20px 35px;
+    cursor: pointer;
+    border-radius: 7px;
+    transition: all 0.7s ease-in-out;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    margin-left: 83px;
+}
+
+
+
+
+body {font-family: Arial, Helvetica, sans-serif;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 10; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: -70px;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 32%;
+  border-radius: 7px;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+.margin-top1 {
+    margin-top: 180px;
+}
+
+.pastga1 h2{
+    margin-top: 50px;
+}
+
+
+
+.litsenziya {
+    text-align: center;
+    margin-top: 350px;
+    font-size: 22px;
+    color: #171130;
+    height:100px;
+}
+
+.litsebziya-1 img{
+    width: 650px;
+    margin-left: 440px;
+    border-radius: 1%;
+
+}
+
+.buyil  h1 {
+    margin-left: 510px;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 240px;
+    color: #171130;
+}
+
+.buyil2 h1 {
+    text-align: center;
+    font-size: 45px;
+    margin-top: -25px;
+    color: #171130;
+}
+
+.masofa {
+    margin-top: 150px;
+}
+
+.checkend img {
+    margin-left: 140px;
+    margin-top: 95px;
+}
+
+.hujat {
+    margin-top: 88px;
+    margin-left: 7px;
+}
+
+.hujat h1 {
+    font-weight: bold;
+    color: #171130;
+}
+
+.hujat p {
+    font-weight: bold;
+    font-size: 20px;
+    height: 10px;
+    color: #171130;
+}
+
+
+.checkend2 img {
+    margin-left: 145px;
+    margin-top: 95px;
+}
+
+.hujat2 {
+    margin-top: 88px;
+    margin-left: 10px;
+}
+
+.hujat2 h1 {
+    font-weight: bold;
+    color: #171130;
+}
+
+.hujat2 p {
+    font-weight: bold;
+    font-size: 20px;
+    height: 10px;
+    color: #171130;
+}
+
+
+.checkend3 img {
+    margin-left: 155px;
+    margin-top: 95px;
+}
+
+.hujat3 {
+    margin-top: 88px;
+    margin-left: 7px;
+}
+
+.hujat3 h1 {
+    font-weight: bold;
+    color: #171130;
+}
+
+.hujat3 p {
+    font-weight: bold;
+    font-size: 20px;
+    height: 10px;
+    color: #171130;
+}
+
+
+.qvota {
+    width: 370px;
+    height: 620px;
+    display: inline-block;
+    border-radius: 5%;
+    margin-top: 80px;
+    margin-left: 140px;
+}
+
+.qvota1 {
+
+    margin-left: 60px;
+    position: absolute;
+}
+
+.qvota2 {
+    margin-left: 495px;
+    position: absolute;
+    width: 400px;
+}
+
+.tugma2-2 button {
+    background-color: #0065C9;
+    color: white;
+    text-align: center;
+    margin-left: 250px;
+}
+
+.boshjoy {
+    width: 100%;
+    height: 50px;
+}
+
+.boshjoytashlash {
+    height: 150px;
+}
+
+
+.ahborot-qismi-rangi {
+    width: 100%;
+    height: auto;
+    background-color:#171130;
+    margin-top: 5px;
+    margin-left: -0.6%;
+    position: relative;
+    top: 0;
+    margin-bottom: -0.5%;
+}
+
+.nomberish {
+    color: white;
+    text-align: center;
+}
+
+.nomberish h1 {
+    font-size: 40px;
+}
+
+.nomberish h2 {
+    font-size: 30px;
+}
+
+.joytashla-10px {
+    height: 5px;
+}
+
+
+.accordion {
+    background-color: #ffff;
+    color: #212529;
+    cursor: pointer;
+    padding: 18px;
+    width: 960px;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 17px;
+    font-weight: 200;
+    transition: 0.4s;
+    display: block;
+    margin-left: 280px;
+    margin-top: 20px;
+}
+  
+.active, .accordion:active {
+    color: #0c63e4;
+    
+}
+  
+.panel {
+    padding: 0 18px;
+    display: none;
+    background-color: white;
+    overflow: hidden;
+    width: 924px;
+    margin-left: 280px;
+    text-align: center;
+    color: #212529;
+    
+}
+
+.joytashlash-000px {
+    height: 100px;
+}
+
+
+.oxirgiqismi-rangi {
+    width: 100%;
+    height: 355px;
+    background-color: #060919;
+    margin-top: 5px;
+    margin-left: -0.6%;
+    position: relative;
+    top: 0;
+    margin-bottom: -0.5%;
+}
+
+
+.bosh__joytashlash {
+    height: 20px;
+}
+
+.call-cent {
+    color: white;
+    margin-left: 25px;
+    margin-top: 110px;
+    font-size: 17px;
+    height: 5px;
+}
+
+.yonalish {
+    margin-left: 410px;
+    margin-top: -20px;
+}
+
+.talim h3 {
+    color: white;
+    font-size: 20px;
+}
+
+.imeykasi a {
+    color:#BAC4DF;
+    height: 30px;
+    font-size: 17px;
+    display: block;
+}
+
+.imeykasi a:hover {
+    color: #0065C9
+}
+
+.cursor {
+    cursor: pointer;
+    margin-left: 65px;
+    margin-top: -35px;
+}
+
+.yilik-hisob p {
+    color: #877A74;
+    margin-left: -390px;
+    margin-top: 80px;
+    display: inline-block;
+}
+
+.margin-top-left a {
+    color: white;
+    margin-left: 390px;
+    margin-top: px;
+    font-weight: bold;
+    height: 20px;
+    text-decoration: none;
+}

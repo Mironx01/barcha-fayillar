@@ -1,0 +1,14 @@
+.row{
+    background-color: green;
+}
+.row>div{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: red;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+}
+.content{
+    background-color: blue;
+}

@@ -1,0 +1,103 @@
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+
+.text-dark-custom {
+    color: #3a3a47!important;
+}
+
+.text-grey-custom {
+    color: #5c5c5c!important;
+}
+
+.text-light-grey-custom{
+    color: #818198!important;
+}
+
+.text-blue-custom {
+    color: #3498db!important;
+}
+
+.text-dark-blue-custom{
+    color: #383b61!important;
+}
+
+.text-green-custom {
+    color: #21bf73!important;
+}
+
+.bg-primary-custom {
+    background-color: #f0f5f9!important;
+}
+
+.font-weight-500 {
+    font-weight: 500;
+}
+/* Navigation Menu*/
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+/*<Navigation Menu>*/
+/*Home qismi*/
+.Home {
+    padding: 150px 0 100px 0;
+}
+/*About*/
+.about-1 {
+    background-color: #FFF2E5;
+}
+
+.about-2 {
+    background-color: #F8F9Fa;
+}
+
+.about-3 {
+    background-color: #F8F9Fa;
+}
+
+.img_1 {
+    width: 80px;
+}
+/*<About>*/
+
+/*Featurse*/
+.featurse_1 {
+    background-color: #F0F5F9;
+}
+
+/*reviue*/
+.carusel_img-1 {
+    width: 60px;
+}
+.carusel_img-2 {
+    border-radius: 70%;
+    width: 60px;
+}
+
+.reviews__container {
+    background-color: #F0F5F9;
+    padding: 100px 50px;
+}
+/*Pricing*/
+.pricing_img-1 {
+    background-color: #f0f5f9;
+}
+
+/* FAQ */
+.faq__container {
+    padding: 100px 50px;
+    background-color: #F0F5F9;
+}

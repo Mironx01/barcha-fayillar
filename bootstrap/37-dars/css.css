@@ -1,0 +1,7 @@
+.navbar-light .navbar-nav .nav-link {
+    color: red;
+}
+
+.btn-primary:hover {
+    background-color: black;
+}

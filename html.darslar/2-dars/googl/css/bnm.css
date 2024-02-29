@@ -1,0 +1,52 @@
+.gogo{
+    width: 450px;
+    height: 25px;
+    border: 2px solid;
+    position:absolute ;
+    top: 230px;
+    left: 290px;
+    border-radius: 50px;
+}
+.G{
+  font-size: 80px;
+  color: #4285F4;
+  position: absolute;
+  top: 50px;
+  left: 400px; ;
+
+}
+.o{
+    font-size: 80px;
+    position: absolute;
+    top: 50px ;
+    left: 460px;
+    color: #EA4335;
+}
+.b{
+   font-size: 80px;
+   position: absolute;
+   top: 50px;
+   left: 498px; 
+   color:#FBBC05 ;
+}
+.g{
+    font-size: 80px;
+    position: absolute;
+    top: 50px;
+    left: 535px;
+    color: #4285F4;
+}
+.l{
+    font-size: 80px;
+    position: absolute;
+    top: 55px;
+    left: 570px;
+    color: #34A853;
+}
+.e{
+    font-size: 80px;
+    position: absolute;
+    top: 50px;
+    left: 590px;
+    color:#EA4335 ;
+}

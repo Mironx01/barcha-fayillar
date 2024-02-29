@@ -1,0 +1,256 @@
+.salom1{
+    background-color: #E0E8ED;
+    width: 100%;
+    height: 550px;
+    margin-top: 250px;
+}
+.salom2{
+    width: 400px;
+    height: 570px;
+    border: solid 3px;
+    margin-top: -600px;
+    margin-left: 100px;
+    border-color: #5D6B72;
+    
+}
+.salom1 img {
+    width: 400px;
+    margin-left: 70px;
+    margin-top: -120px;
+    position: relative;
+    
+}
+.salom1 p{
+    margin-left: 950px;
+    margin-top: -650px;
+    
+}
+.yozuv1{
+    margin-left: 530px;
+    margin-top: 200px;
+    
+}
+.yozuv1 h1{
+    font-size: 70px;
+    font-family: Century Gothic, sans-serif;
+}
+.yozuv1 h3{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+    font-size: 22px;
+    font-family: Roboto,sans-serif;
+}
+.rasm1 img{
+    width: 400px;
+    margin-top: -30px;
+    margin-left: 65%;
+    position:absolute;
+}
+.rasm2 img{
+    margin-left:30%;
+    width: 40%;
+    position: absolute;
+}
+.rasm4 img{
+    margin-left: 33%;
+    width: 35%;
+}
+.yozuv4 p{
+    position:absolute;
+    color: #5d6b72;
+    margin-left: 5%;
+    font-style:italic;
+    font-family: 'Open Sans',sans-serif;
+}
+.yozuv5{
+    margin-top: 10%;
+}
+.yozuv5 h1{
+    font-family: Roboto,sans-serif;
+    margin-left: 10%;
+}
+.yozuv5 p{
+    margin-left: 10%;
+    color: #aeafaf;
+}
+.rasm5 img{
+    width: 40%;
+    margin-left: 50%;
+    margin-top: -40%;
+}
+.qutti1{
+    width: 100%;
+    height: 400px;
+    background-color: #6B7C83   ;
+}
+.qutti2 p{
+    color: white;
+    font-family: 'open sans',sans-serif;
+    margin-left: 7%;
+}
+.rasm7 img{
+    width: 30%;
+    margin-left: 37%;
+    margin-top: -23%;
+}
+.rasm8 img{
+    width: 30%;
+    margin-left: 70%;
+    margin-top: -40%;
+}
+.yozuv6 p{
+    margin-left: 72%;
+    position:absolute;
+    color: #a4b6b6;
+    margin-top: 5%;
+}
+.yozuv7 h1{
+    font-size: 50px;
+    margin-top: -20%;
+    margin-left: 5%;
+    font-family:Roboto,sans-serif;
+}
+.yozuv7 p{
+    color: #a4b6b6;
+    margin-left: 5%;
+
+}
+.qutti3{
+    width: 100%;
+    height: 500px;
+    background-color: #E0E8ED;
+    margin-top: 500px;
+
+}
+.rasm9 img{
+    width: 25%;
+    height: 500px;
+    margin-top: -30%;
+    margin-left: 7%;
+
+}
+.rasm11 img{
+    margin-left: 35%;
+    width: 30%;
+    margin-top: -23%;
+}
+.kvadrat{
+    width: 300px;
+    height: 500px;
+    border: solid 3px;
+    margin-top: -730px;
+    margin-left: 65%;
+    border-color: #5D6B72;
+}
+.rasm12 img{
+    width: 30%;
+    height: 550px;
+    margin-top: -47%;
+    margin-left: 67%;
+}
+.yozuv8 h1{
+    margin-top: -11%;
+    position: absolute;
+    margin-left: 8%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+.yozuv8 p{
+position: absolute;
+margin-left: 38%;
+color: #a4b6b6;
+margin-top: -10%;
+}
+
+.rasm13 img{
+    width: 100%;
+    margin-top: 22%;
+}
+.qutti4{
+    width: 100%;
+    height: 300px;
+    background-color: #E0E8ED;
+    
+}
+.rasm14 img{
+    position: absolute;
+    margin-top: 12%;
+    margin-left: 2%;
+    width: 50%;
+    z-index: 1;
+}
+.yozuv9 h1{
+    margin-left: 13%;
+    margin-top: 15%;
+    position: absolute;
+    z-index: 2;
+    font-family: Arial, Helvetica, sans-serif;
+}  
+.yozuv9 p{
+    margin-top: 20%;
+    position: absolute;
+    z-index: 2;
+    color: #aeafaf;
+    margin-left: 10%;
+}
+.kvadrat1{
+    color: #6B7C83;
+    width: 45%;
+    height: 450px;
+    position: absolute;
+    border: 5px solid #6B7C83;
+    margin-left: 52%;
+    margin-top:10% ;
+}
+.rasm15 img{
+width: 55%;
+position: absolute;
+margin-top: 6%;
+margin-left: 54%;
+position: absolute;
+z-index: 2;
+}
+#iconka{
+    color: white;
+    background-color: #5D6B72;
+    position: absolute;
+    margin-top: 30%;
+    z-index: 2;
+    width: 15%;
+    margin-left: 10%;
+}
+.qutti5{
+    width: 100%;
+    height:400px;
+    margin-top: 300px;
+    background-color: #a4b6b6;
+}
+.qutti5 img{
+    margin-left: 30%;
+    margin-top: 10%;
+    width: 40%;
+}
+.qutti6{
+    background-color: #aeafaf;
+    width: 100%;
+    height: 500px;
+
+}
+.qutti6 p{
+    color: white;
+    margin-left: 20%;
+    margin-top: 5%;
+    width: 10%;
+
+    
+}
+.qutti6 h1{
+    margin-left: 10%;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    
+}
+.knopka{
+    margin-left: 30%;
+}

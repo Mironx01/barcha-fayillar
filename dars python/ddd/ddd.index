@@ -1,0 +1,1262 @@
+
+<!DOCTYPE html>
+<html  lang="en" class="page-template page-template-page--component-template page-template-page--component-template-php page page-id-106137 page-parent background-type--always-purple background-type--white" data-embed="false" data-platform="false" >
+<head>
+
+	<meta charset="UTF-8" />
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="google-site-verification" content="98uiE1NNtDmzt6ze17O0naCIZm99GcgkMqvsifyn_fQ" />
+
+	<link rel="shortcut icon" id="favicon" data-directory="https://kahoot.com/wp-content/themes/kahoot2017/assets/img/" href="https://kahoot.com/wp-content/themes/kahoot2017/assets/img/favicon/favicon.ico"/>
+	
+			<!-- OneTrust Cookies Consent Notice start for kahoot.com -->
+		<script type="text/javascript" src="https://cdn-ukwest.onetrust.com/consent/9b59722d-3396-4e3d-b359-7b66ba6a4ea9/OtAutoBlock.js" ></script>
+		<script src="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="9b59722d-3396-4e3d-b359-7b66ba6a4ea9" ></script>
+		<script type="text/javascript">
+		function OptanonWrapper() {
+			window.onload = function(){
+				var openPreferenceCenterButton = document.querySelectorAll('.openPreferenceCenter');
+				for (let preferenceCenterCounter = 0; preferenceCenterCounter in openPreferenceCenterButton; preferenceCenterCounter++) {
+					openPreferenceCenterButton[preferenceCenterCounter].children[0].setAttribute("href", "javascript:void(0)");
+					openPreferenceCenterButton[preferenceCenterCounter].addEventListener("click", function(){ Optanon.ToggleInfoDisplay(); });
+					document.getElementById("onetrust-consent-sdk").setAttribute('data-amplitude-link-position', 'cookie-consent');
+				}
+			};
+		}
+		</script>
+		<!-- OneTrust Cookies Consent Notice end for kahoot.com -->
+	
+
+	<link rel="stylesheet" href="https://kahoot.com/wp-content/themes/kahoot2017/assets/cssv/screen-8ee4c13a48.css">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Kahoot! for schools | Make learning awesome at school</title>
+	<meta name="description" content="Make learning awesome together! Kahoot! for schools helps teachers collaborate, save time and create more engaging games." />
+	<link rel="canonical" href="https://kahoot.com/schools/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Kahoot! for schools | Make learning awesome at school" />
+	<meta property="og:description" content="Make learning awesome together! Kahoot! for schools helps teachers collaborate, save time and create more engaging games." />
+	<meta property="og:url" content="https://kahoot.com/schools/" />
+	<meta property="og:site_name" content="Kahoot!" />
+	<meta property="article:publisher" content="https://www.facebook.com/getkahoot" />
+	<meta property="article:modified_time" content="2023-10-26T08:22:15+00:00" />
+	<meta property="og:image" content="https://kahoot.com/files/2017/06/img-social-default.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="700" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@getkahoot" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<script type='text/javascript' src='https://kahoot.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://kahoot.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://kahoot.com/wp-content/plugins/pdf-quote/js/function.js?ver=6.3' id='functions-js'></script>
+<script type='text/javascript' src='https://kahoot.com/wp-content/plugins/stop-user-enumeration/frontend/js/frontend.js?ver=1.4.7' id='stop-user-enumeration-js'></script>
+<link rel='shortlink' href='https://kahoot.com/?p=106137' />
+<script id="user-scripts">function outputRedirects(userClassification, fromParam, activeSubscription){}"use strict";function _slicedToArray(a,b){return _arrayWithHoles(a)||_iterableToArrayLimit(a,b)||_unsupportedIterableToArray(a,b)||_nonIterableRest()}function _nonIterableRest(){throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")}function _unsupportedIterableToArray(a,b){if(a){if("string"==typeof a)return _arrayLikeToArray(a,b);var c=Object.prototype.toString.call(a).slice(8,-1);return"Object"===c&&a.constructor&&(c=a.constructor.name),"Map"===c||"Set"===c?Array.from(a):"Arguments"===c||/^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(c)?_arrayLikeToArray(a,b):void 0}}function _arrayLikeToArray(a,b){(null==b||b>a.length)&&(b=a.length);for(var c=0,d=Array(b);c<b;c++)d[c]=a[c];return d}function _iterableToArrayLimit(a,b){var c=null==a?null:"undefined"!=typeof Symbol&&a[Symbol.iterator]||a["@@iterator"];if(null!=c){var d,e,f,g,h=[],i=!0,j=!1;try{if(f=(c=c.call(a)).next,0===b){if(Object(c)!==c)return;i=!1}else for(;!(i=(d=f.call(c)).done)&&(h.push(d.value),h.length!==b);i=!0);}catch(a){j=!0,e=a}finally{try{if(!i&&null!=c["return"]&&(g=c["return"](),Object(g)!==g))return}finally{if(j)throw e}}return h}}function _arrayWithHoles(a){if(Array.isArray(a))return a}function getParameterByName(a,b){b||(b=window.location.href),a=a.replace(/[\[\]]/g,"\\$&");var c=new RegExp("[?&]"+a+"(=([^&#]*)|&|#|$)"),d=c.exec(b);return d?d[2]?decodeURIComponent(d[2].replace(/\+/g," ")):"":null}function removeRedirFromURL(){history.replaceState&&history.replaceState(null,"",location.pathname+location.search.replace(/[\?&]r=[^&]+/,"").replace(/^&/,"?")+location.hash)}function bypassLandingPageRedirect(){var a=document.querySelector(".logo-link");a&&a.hasAttribute("href")&&(fromParam=fromParam?"&"+fromParam:"",a.href=a.getAttribute("href")+"?r=f"+fromParam)}function trimStr(a){return a.replace(/^\s+|\s+$/gm,"")}function getUrlParams(a){return(a||"").replace(/^[?#]/,"").split("&").reduce(function(a,b){var c=b.split("="),d=_slicedToArray(c,2),e=d[0],f=void 0===e?"":e,g=d[1],h=void 0===g?"":g,i=trimStr(f);return i&&(a[i]=trimStr(decodeURIComponent(h.replace(/\+/g," ")))),a},{})}var userLoggedIn,userPrimaryUsage,userPrimaryUsageType,userProduct,userPlanCode,userFreePlanCode,userSubscriptionStatus,userSubscriptionPlatform,userUuid,userTimestamp,userRoles,upgradeLink,userClassification,hasLocalStorage,queryParams=getUrlParams(window.location.search),f=getParameterByName("from"),userStorage="u",upgradeVisibility="display:none;",htmlEl=document.getElementsByTagName("html")[0],isLandingPage=document.getElementsByTagName("html")[0].classList.contains("landing-page"),cookieUserType=(document.cookie.match(/^(?:.*;)?\s*userType\s*=\s*([^;]+)(?:.*)?$/)||[,null])[1],fromParam=getParameterByName("from")?"from="+getParameterByName("from"):"";if(/qa/.test(f)&&(userStorage="uQA"),null!=localStorage.getItem(userStorage)){hasLocalStorage=!0;try{var user=JSON.parse(localStorage.getItem(userStorage));userLoggedIn=!!user.primary_usage}catch(a){hasLocalStorage=!1,userLoggedIn=!1}if(userLoggedIn){var setUpgradeLinks=function(a){var b=document.querySelectorAll("[data-upgrade]");b&&b.forEach(function(b){b.setAttribute("href",a)})};userPrimaryUsage=user.primary_usage,userPrimaryUsageType=user.primary_usage_type,userProduct=user.product,userPlanCode=user.plan_code,userFreePlanCode=user.free_plan_code,userSubscriptionStatus=user.subscription_status,userSubscriptionPlatform=user.subscription_platform,userUuid=user.uuid,userTimestamp=user.timestamp,userRoles=user.roles;var showUpgrade="student"!=userPrimaryUsage&&"youngstudent"!=userPrimaryUsage&&-1==userPlanCode.indexOf("academy")&&-1==userPlanCode.indexOf("premiumplus12"),splitToolUpgradepath="https://create.kahoot.it/km/v1/route?uuid=".concat(userUuid,"&primary_usage=").concat(userPrimaryUsage,"&primary_usage_type=").concat(userPrimaryUsageType,"&plan_state=").concat(userSubscriptionStatus,"&subscription_platform=").concat(userSubscriptionPlatform,"&plan=").concat(userPlanCode,"&product=").concat(userProduct,"&roles=").concat(userRoles),upgradeTimestamp=0;try{upgradeTimestamp=JSON.parse(localStorage.getItem("upgrade")).timestamp}catch(a){console.log("JSON parse failed.")}if(null!==localStorage.getItem("upgrade")&&600000>new Date().getTime()-upgradeTimestamp)try{upgradeLink=JSON.parse(localStorage.getItem("upgrade")).value}catch(a){console.info("upgrade does not parse")}else if(showUpgrade){var splitToolResponse=function(a){upgradeLink=a.content["touchpoint.kahoot-pricing"];var b={value:upgradeLink,timestamp:new Date().getTime()};if(b.value)try{localStorage.setItem("upgrade",JSON.stringify(b))}catch(a){console.info("upgrade does not stringify"),showUpgrade=!1}else console.info("Upgrade route undefined."),showUpgrade=!1;showUpgrade&&(document.getElementById("upgrade-link")&&(document.getElementById("upgrade-link").setAttribute("href",upgradeLink),document.getElementById("upgrade-link-li").removeAttribute("style")),setUpgradeLinks(upgradeLink))};if(window.fetch)fetch(splitToolUpgradepath).then(function(a){return a.json()}).then(function(a){splitToolResponse(a)});else{console.info("Fetch is not supported.");var xhr=new XMLHttpRequest;xhr.open("GET",splitToolUpgradepath),xhr.onreadystatechange=function(){if(4===xhr.readyState)if(200===xhr.status)try{var a=JSON.parse(xhr.responseText);splitToolResponse(a)}catch(a){console.info("JSON parse failed.")}else console.log("HTTP error",xhr.status,xhr.statusText)},xhr.send()}}if(htmlEl.className+=" platform-logged-in",htmlEl.setAttribute("data-logged-in",userLoggedIn),userPrimaryUsage&&htmlEl.setAttribute("data-primary-usage",userPrimaryUsage),userPrimaryUsageType&&htmlEl.setAttribute("data-primary-usage-type",userPrimaryUsageType),userProduct&&htmlEl.setAttribute("data-product",userProduct),document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("menu-homepage-menu-right");if(a){var b="student"==userPrimaryUsage?"<!-- student -->":"youngstudent"==userPrimaryUsage?"<!-- young student -->":-1==userPlanCode.indexOf("academy")?-1==userPlanCode.indexOf("premiumplus12")?"<li class=\"btn-wrap\" id=\"upgrade-link-li\" style=\"".concat(upgradeVisibility,"\"><a id=\"upgrade-link\" href=\"").concat(upgradeLink,"\">Upgrade</a></li>"):"<!-- premiumplus12 -->":"<!-- academy -->",c="<li class=\"outline-btn-wrap mobile-hide\"><a href=\"/contact-sales/\" itemprop=\"url\">Contact sales</a></li><li class=\"logged-in-explore-link\"><a href=\"https://create.kahoot.it/discover\" itemprop=\"url\"><span class=\"menu-item-text\">Explore content</span></a></li>".concat(b,"<li class=\"btn-wrap btn-wrap-second\"><a href=\"").concat("https://kahoot.it/","\" data-tracking-id=\"play-top-bar\">Play</a></li><li class=\"icon-before-nav profile-nav-icon\"><a href=\"").concat("https://create.kahoot.it/","\" data-tracking-id=\"sign-in-top-bar\"><span class=\"menu-item-text\">Log in</span></a></li>");if(a.innerHTML=c,setUpgradeLinks(upgradeLink),upgradeLink&&showUpgrade&&document.getElementById("upgrade-link-li").removeAttribute("style"),!showUpgrade)for(var d=document.querySelectorAll("[data-upgrade]"),e=0;e<d.length;e++)d[e].parentNode.removeChild(d[e])}var f=document.querySelectorAll("[data-loggedin-href]");f&&f.forEach(function(a){a.setAttribute("href",a.getAttribute("data-loggedin-href"))})}),"business"==userPrimaryUsage&&"SCHOOL_ADMINISTRATION"!=userPrimaryUsageType&&"HIGHER_EDUCATION"!=userPrimaryUsageType?userClassification="business":"teacher"==userPrimaryUsage&&"BUSINESS"==userPrimaryUsageType&&(userClassification="business"),"teacher"==userPrimaryUsage&&"BUSINESS"!=userPrimaryUsageType?userClassification="teacher":("business"==userPrimaryUsage&&"SCHOOL_ADMINISTRATION"==userPrimaryUsageType||"business"==userPrimaryUsage&&"HIGHER_EDUCATION"==userPrimaryUsageType)&&(userClassification="teacher"),"social"==userPrimaryUsage&&"FAMILY"!=userPrimaryUsageType&&(userClassification="personal"),"student"==userPrimaryUsage&&(userClassification="student"),"youngstudent"==userPrimaryUsage&&(userClassification="youngStudent"),"social"==userPrimaryUsage&&"FAMILY"==userPrimaryUsageType&&(userClassification="parent"),!isLandingPage)document.addEventListener("DOMContentLoaded",function(){bypassLandingPageRedirect()});else if(!getParameterByName("r")){fromParam=fromParam?"?"+fromParam:"";var activeSubscription="ACTIVE"==userSubscriptionStatus;outputRedirects(userClassification,fromParam,activeSubscription)}else removeRedirFromURL()}else localStorage.removeItem("upgrade")}else hasLocalStorage=!1;null!==localStorage.getItem(userStorage)&&userLoggedIn||("business"==cookieUserType&&isLandingPage?!getParameterByName("r")&&businessRedirect?(fromParam=fromParam?"?"+fromParam:"",window.location.href="/business-u"+fromParam):removeRedirFromURL():"business"==cookieUserType&&!isLandingPage&&document.addEventListener("DOMContentLoaded",function(){bypassLandingPageRedirect()}));</script><script id="head-scripts">"use strict";function docReady(a){"complete"===document.readyState||"interactive"===document.readyState?setTimeout(a,1):document.addEventListener("DOMContentLoaded",a)}docReady(function(){var a=document.querySelectorAll("iframe[src*=youtube]");a.forEach(function(a,b){var c=new URL(a.getAttribute("src"));c.searchParams.set("enablejsapi",1),a.setAttribute("src",c),a.setAttribute("id","yt-video-"+b)})});</script>
+
+
+
+
+
+<script type='application/ld+json'>
+{ 	"@context" : "http://schema.org",
+	"@type" : "Organization",
+	"legalName" : "Kahoot!",
+	"url" : "https://kahoot.com",
+	"logo" : "https://kahoot.com/kahoot.png",
+	"sameAs" : [ "https://kahoot.it",
+	"https://create.kahoot.it",
+	"https://play.kahoot.it",
+	"https://twitter.com/kahoot",
+	"https://www.facebook.com/getkahoot",
+	"https://www.linkedin.com/company/kahoot/",
+	"https://www.instagram.com/kahoot/"]
+}
+</script>
+
+		
+
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFBWSXS');</script>
+<!-- End Google Tag Manager -->	
+
+</head>
+
+<body id="top" itemscope itemtype="http://schema.org/WebPage" > 
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFBWSXS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	<meta itemprop="name" content="Kahoot! for schools | Make learning awesome at school">
+	<meta itemprop="description" content="Make learning awesome together! Kahoot! for schools helps teachers collaborate, save time and create more engaging games.">
+
+
+ 
+			
+				<div class="app-banner" data-amplitude-link-position="mobile-app-banner">
+					<div class="app-banner-image">
+						<a class="apple-store" href="https://apps.apple.com/app/apple-store/id1131203560"><img class="apple-store-img" src="https://kahoot.com/wp-content/themes/kahoot2017/assets/img/app-store-badge.svg" /></a>
+						<a class="play-store" href="https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android&referrer=utm_source%3Dkahoot%26utm_campaign%3Dmobileapp"><img class="play-store-img" src="https://kahoot.com/wp-content/themes/kahoot2017/assets/img/google-play-badge.svg" /></a>
+					</div>
+					<div class="app-banner-content">
+						<p>
+							Get the mobile app for the best Kahoot! experience!						</p>
+					</div>
+					<button class="app-banner-close" aria-label="Close"></button>
+				</div>
+
+<div class="header-wrap">
+
+<header id="page-header-id" class="page-header  page-header--microsite theme-background" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+		<div class="page-header__inner">
+			<a href="#main" id="skip-to-content">Skip to Page content</a> 
+				<a href="/" title="Link to kahoot.com homepage" aria-label="Link to kahoot.com homepage" class="logo-link">
+					<svg width="24" height="25" viewBox="0 0 30 32" class="k-logo">
+						<title>K!</title>
+						<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<path d="M0,3.12411067 L5.3201581,1.75968379 L5.30711462,12.5774704 L14.2901186,3.91304348 L18.9106719,5.68853755 L12.3814229,12.9316206 L16.7118577,28.7075099 L12.013834,28.7075099 L8.5486166,16.6209486 L5.27588933,19.8256917 L5.3201581,28.7075099 L0,28.5173913 L0,3.12411067 Z M22.8873518,29.9964427 L24.2067194,26.8901186 L27.2715415,26.8901186 L28.4312253,30.2988142 L25.6794466,31.944664 L22.8873518,29.9964427 Z M29.8806324,1.81146245 L26.2513834,25.1272727 L20.4770751,-1.77635684e-15 L29.8806324,1.81146245 Z" fill="#46178F"></path>
+						</g>
+					</svg>
+
+				<svg width="146" height="50" viewBox="0 0 88 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="kahoot-logo">
+					<title>Kahoot!</title>
+					<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+						<path d="M59.4563337,25.5366087 C55.5222657,25.9279665 52.3340315,22.7810536 52.3340315,18.5078772 C52.3340315,14.2343593 55.3409298,10.8227848 59.0502914,10.8886941 C62.75897,10.9535789 65.9482288,14.1004918 66.1725936,17.9174256 C66.3969584,21.7336764 63.3900601,25.1449094 59.4563337,25.5366087 Z M37.7762727,17.5267508 C38.000979,13.7101585 41.1895547,10.5635871 44.8985748,10.4980193 C48.6075949,10.432793 51.6144932,13.8443675 51.6144932,18.1175439 C51.6144932,22.3910618 48.426259,25.5379747 44.4921911,25.1466169 C40.5584646,24.7552591 37.5519078,21.3436845 37.7762727,17.5267508 Z M0,4.88343502 L4.5965759,3.70458064 L4.58530644,13.0510655 L12.3465531,5.56506693 L16.3386759,7.09908023 L10.6974547,13.3570485 L14.4389172,26.9872962 L10.3798607,26.9872962 L7.38593935,16.5445998 L4.55832802,19.3134733 L4.5965759,26.9872962 L0,26.8230352 L0,4.88343502 Z M37.6004007,25.5065568 L33.5642246,25.5065568 L33.2999044,19.2940078 L32.9249385,14.8756944 C32.8310263,11.7779574 30.0375649,12.5644295 29.1920135,12.9383708 L29.4153538,25.5065568 L25.5584646,25.3730307 L24.9314725,1.04942628 L28.859735,-7.10542736e-15 L28.9485247,9.84029232 C33.2203351,8.47600401 35.5076951,8.49068846 36.0820963,14.7650487 L37.6004007,25.5065568 Z M81.0803889,28.3167517 L82.2203124,25.6329114 L84.8682952,25.6329114 L85.8702532,28.5779984 L83.4927375,30 L81.0803889,28.3167517 Z M66.1087333,13.4960386 L65.4479328,8.93088061 L68.8776068,9.05040525 L68.8817048,2.6397869 L71.9480239,3.91084601 L71.8944085,9.60158456 L76.301794,9.89220016 L76.301794,12.6552682 L71.9958337,12.896025 L72.3567981,21.3057782 C72.3567981,21.3057782 72.3656771,21.9635051 73.7135734,21.9635051 C75.0611283,21.9635051 76.301794,21.2224524 76.301794,21.2224524 L76.301794,25.5113378 C76.3605318,26.8148393 74.518828,27.3667016 74.518828,27.3667016 C68.631386,28.2607458 69.0637237,24.3543393 69.0637237,24.3543393 L68.8721428,13.4960386 L66.1087333,13.4960386 Z M87.1225298,3.96514434 L83.9868864,24.1098261 L78.9979282,2.40005464 L87.1225298,3.96514434 Z M16.4390766,12.8263592 L15.3626719,9.98577088 C15.3626719,9.98542938 23.2198798,6.47345415 24.1552454,12.7758173 L24.0418678,26.3176168 L18.0772471,26.3169338 C18.0772471,26.3169338 15.4593161,26.417676 14.6540616,23.4971769 C14.6540616,23.4971769 12.6409252,16.0559148 20.5961433,14.6455241 L20.6169748,12.8325061 C20.6169748,12.8325061 19.1085739,11.2045806 16.4390766,12.8263592 Z M56.3920636,18.7834669 C56.560081,20.7604043 57.7846963,21.838175 58.5892678,21.9331117 C60.6290411,22.1738685 62.3652217,20.3082597 62.2491121,17.933476 C62.132661,15.5583508 61.1836354,14.0738548 59.2592888,14.0332165 C57.3363082,13.9925781 56.1724797,16.2010518 56.3920636,18.7834669 Z M20.5876059,23.7266642 L20.6962025,17.6636918 C17.445474,17.1913988 17.3846872,21.5909298 17.3846872,21.5909298 C17.7022812,24.4335671 20.5876059,23.7266642 20.5876059,23.7266642 Z M45.3595984,21.5431199 C46.1641699,21.4481832 47.3887852,20.3704125 47.5564612,18.3934751 C47.7763865,15.81106 46.6128996,13.6025863 44.6895775,13.6432247 C42.7652309,13.6835215 41.8158638,15.168359 41.7000956,17.5434842 C41.583303,19.9179264 43.3194837,21.7838767 45.3595984,21.5431199 Z" fill="#46178F"></path>
+					</g>
+				</svg>
+			</a>
+			<nav id="header-menu" class="header-menu  header-menu--microsite" aria-label="Navigation" data-translated="" itemscope itemtype="https://schema.org/SiteNavigationElement">
+				<ul id="menu-header-right-micro-sites" class="header-menu-right first-in-focus"><li id="menu-item-101022" class="mobile-hide menu-item menu-item-type-custom menu-item-object-custom menu-item-101022"><a href="/news/" itemprop="url"><span class="menu-item-text">News</span></a></li>
+<li id="menu-item-101023" class="mobile-hide menu-item menu-item-type-custom menu-item-object-custom menu-item-101023"><a href="/contact-sales/" itemprop="url"><span class="menu-item-text">Contact Sales</span></a></li>
+<li id="menu-item-101026" class="mobile-hide menu-item menu-item-type-custom menu-item-object-custom menu-item-101026"><a href="/academy/study/" itemprop="url"><span class="menu-item-text">Explore content</span></a></li>
+<li id="menu-item-101027" class="mobile-hide menu-item menu-item-type-custom menu-item-object-custom menu-item-101027"><a href="https://kahoot.it" itemprop="url"><span class="menu-item-text">Play</span></a></li>
+<li id="menu-item-101024" class="btn-wrap menu-item menu-item-type-custom menu-item-object-custom menu-item-101024"><a href="https://create.kahoot.it/auth/login" data-tracking-id="sign-in-top-bar" itemprop="url">Log in</a></li>
+<li id="menu-item-101025" class="btn-wrap menu-item menu-item-type-custom menu-item-object-custom menu-item-101025"><a href="https://create.kahoot.it/auth/register" data-tracking-id="sign-up-top-bar" itemprop="url">Sign up</a></li>
+</ul>				<button class="navigation-toggle desktop-hidden first-in-focus" aria-controls="menu-header-menu-left" aria-label="Open navigation">
+					<svg version="1.1" id="burger-icon-new" class="burger-icon" width="20px" height="14px" viewBox="0 0 20 14">
+						<rect x="0" y="0" width="18" height="2" class="icon-bar icon-bar--top"/>
+						<rect x="0" y="6" width="18" height="2" class="icon-bar icon-bar--middle"/>
+						<rect x="0" y="12" width="18" height="2" class="icon-bar icon-bar--bottom" />
+					</svg>
+					<svg xmlns="http://www.w3.org/2000/svg" class="nav-arrow-icon" width="14" height="19" viewBox="0 0 14 19">
+  						<polygon fill="#000" fill-rule="evenodd" points="350.707 19 344 25.707 345.414 27.121 349.707 22.828 349.707 37.414 351.707 37.414 351.707 22.828 356 27.121 357.415 25.707" transform="translate(-344 -19)"/>
+					</svg>
+				</button>
+				
+				<ul id="menu-school-left-menu" class="header-menu-left"><li id="menu-item-106387" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-106137 current_page_item menu-item-106387"><a href="https://kahoot.com/schools/" aria-current="page" itemprop="url">SCHOOL</a></li>
+<li id="menu-item-106390" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-106137 current_page_item menu-item-has-children menu-item-106390"><a href="https://kahoot.com/schools/" aria-current="page" itemprop="url"><span class="menu-item-text">Teachers</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-100971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100971"><a href="https://kahoot.com/schools/plans/" itemprop="url"><span class="menu-item-text">Plans &#038; Pricing</span></a></li>
+	<li id="menu-item-100969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100969"><a href="https://kahoot.com/schools/ways-to-play/" itemprop="url"><span class="menu-item-text">Getting started</span></a></li>
+	<li id="menu-item-100972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100972"><a href="https://kahoot.com/schools/assessment/" itemprop="url"><span class="menu-item-text">Review &#038; Assessment</span></a></li>
+	<li id="menu-item-101031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101031"><a href="https://kahoot.com/schools/learning-apps-school/" itemprop="url"><span class="menu-item-text">Learning apps</span></a></li>
+	<li id="menu-item-100973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100973"><a href="https://kahoot.com/schools/math-labs/" itemprop="url"><span class="menu-item-text">Math Labs</span></a></li>
+	<li id="menu-item-100974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100974"><a href="https://kahoot.com/schools/whiteboard-fi/" itemprop="url"><span class="menu-item-text">Whiteboard.fi</span></a></li>
+	<li id="menu-item-100976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100976"><a href="https://kahoot.com/schools/edu-school-and-district/" itemprop="url"><span class="menu-item-text">Kahoot! EDU</span></a></li>
+</ul>
+</li>
+<li id="menu-item-106389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-106389"><a href="https://kahoot.com/schools/higher-ed/" itemprop="url"><span class="menu-item-text">Higher ed faculty</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-100984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100984"><a href="https://kahoot.com/register/pricing-higher-ed/" itemprop="url"><span class="menu-item-text">Plans &#038; Pricing</span></a></li>
+	<li id="menu-item-101019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101019"><a href="https://kahoot.com/schools/ways-to-play-highered/" itemprop="url"><span class="menu-item-text">Getting started</span></a></li>
+	<li id="menu-item-101021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101021"><a href="https://kahoot.com/schools/assessment-highered/" itemprop="url"><span class="menu-item-text">Review &#038; Assessment</span></a></li>
+	<li id="menu-item-100988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100988"><a href="https://kahoot.com/schools/distance-learning/" itemprop="url"><span class="menu-item-text">Distance learning</span></a></li>
+	<li id="menu-item-100989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100989"><a href="https://kahoot.com/schools/interactive-lessons/" itemprop="url"><span class="menu-item-text">Interactive lessons</span></a></li>
+	<li id="menu-item-100987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100987"><a href="https://kahoot.com/upgrade/premiumplus-campus/" itemprop="url"><span class="menu-item-text">Kahoot! EDU</span></a></li>
+</ul>
+</li>
+<li id="menu-item-100978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-100978"><a href="https://kahoot.com/edu-library/" itemprop="url"><span class="menu-item-text">Resources</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-100979" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-100979"><a href="https://kahoot.com/blog/category/schools/" itemprop="url"><span class="menu-item-text">Blog</span></a></li>
+	<li id="menu-item-100980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100980"><a href="https://kahoot.com/blog/tag/case-studies/" itemprop="url"><span class="menu-item-text">Case studies</span></a></li>
+	<li id="menu-item-100981" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100981"><a href="https://kahoot.com/edu-library/#live-sessions" itemprop="url"><span class="menu-item-text">Webinars</span></a></li>
+	<li id="menu-item-100982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100982"><a href="https://kahoot.com/certified/" itemprop="url"><span class="menu-item-text">Certification</span></a></li>
+</ul>
+</li>
+</ul>			</nav>
+        </div>
+    </header>
+</div><!--/header-wrap-->
+
+
+
+
+
+<main id="main" class="page">
+	<section class="page-section ">
+				<div class="hero-video-boxes hero-video-boxes--remove-box dv-  dv-background" data-amplitude-link-position="hero" style="background-image:url(https://kahoot.com/files/2023/08/bts-campaign_fefefe_background3fs.png); background-position:bottom; background-size:cover; background-repeat:no-repeat">
+    <div class="outer">
+        <div class="inner">
+            <div class="hero-video-boxes--group hero-video-boxes--remove-box image-show-mobile">
+                <div class="hero-video-boxes__content ">
+                    <div class="hero-video-boxes--content-inner">
+                                                 <h1><span style="font-size: 36px;">All you need to <span class="sketched-underline">make learning awesome</span> this  school year</span></h1>                          <p><p>Kahoot! is the all-in-one engagement, teaching, assessment, and review tool loved by millions of teachers, students and admins around the world.</p>
+<p><strong>Get it now with 20% of Kahoot!+ Max, now $9.99/month.</strong></p>
+<div class="mobile-btn-cont"><span> <a class="btn btn--raised btn--green" href="#plans" target="_self">See plans</a></span> <span style="margin-left: 10px; margin-bottom: 30px; color: #fff;"><a href="https://create.kahoot.it/"><strong>Sign up for free</strong></a></span></div>
+</p>                     </div>
+                </div>
+                <div class="hero-video-boxes__video hero-video-boxes--video-container ">
+                                            <div class="video-wrap" style="width: 100%; ">
+                                                    </div>
+                                    </div>
+            </div>
+        </div>
+            </div>
+</div>
+<style>
+
+.hero-video-boxes {
+   padding-top: 0.1rem;
+}
+
+@media only screen and (min-width: 1265px) {
+main.page .hero-video-boxes.dv-background {
+    background-image: url(https://kahoot.com/files/2023/08/bts-campaign5_lightgray_homepage-hero4-1.png) !important;}
+}
+</style>
+
+<br></br>		<section class="layout-section " style=' '>
+			<div class="simplified-cta-boxes--container simplified-cta-boxes--design-bright-title-box-shadow" data-amplitude-link-position="simplified-cta-boxes">
+    <div class="outer">
+        <div class="inner ">
+            <div class="scta-box--container">
+                <div class="scta-box--box  ">
+            <h1>Teachers</h1>
+        <p>Awesome end-to-end review and instruction</p>
+<p>&nbsp;</p>
+<p><a href="#plans">Get started from $3.99/month</a></p>
+    </div>
+    <div class="scta-box--box  ">
+            <h1>Students</h1>
+        <p>Provide more game variety, study modes, and presentation tools through student passes</p>
+<p><a href="https://kahoot.com/blog/2022/10/20/new-kahoot-student-passes/">Student passes</a></p>
+    </div>
+    <div class="scta-box--box  ">
+            <h1>Admins</h1>
+        <p><span>Provide engagement and assessment at scale to your school teachers at scale with Kahoot! EDU</span></p>
+<p><a href="https://kahoot.com/schools/kahoot-edu-school-districts/#quote">Contact us</a></p>
+    </div>
+    <div class="scta-box--box  ">
+            <h1>Higher education</h1>
+        <p>Learn more about Kahoot! for higher education</p>
+<p><a href="https://kahoot.com/schools/higher-ed/">Learn more</a></p>
+    </div>
+            </div>
+        </div>
+    </div>
+</div>		</section>
+				<section class="layout-section " style=' background-color: #ffffff;'>
+			            <div class="layout-component">
+                <div class="outer">
+                    <div class="inner inner--narrow">
+                        <article class="text-image-article  text-image-article--default">
+                            <div class="text-image" data-amplitude-link-position="text-image-block">
+	<div class="text-image__text">
+		<h1>Learn how to go beyond the quiz this school year</h1>
+		<p>Discover ways of using Kahoot! in your classroom this year with Kahoot! 101 challenges!</p>
+<p><span> <a class="btn btn--raised " href="https://kahoot.com/schools/back-to-school-23-basic/#check-out-everything" target="_self">Play now</a></span></p>
+			</div>
+	<div class="text-image__image ">
+			
+				<img data-lzy-src="https://kahoot.com/files/2023/08/K-12screen-2.png" src="https://kahoot.com/wp-content/themes/kahoot2017/assets/img/trans.png" alt="" width="" height="" />
+		
+					</div>
+</div>
+
+                        </article>
+                    </div>
+                </div>
+            </div>
+        		</section>
+				<section class="layout-section layout-section--bottom" style=' background-color: #ffffff;'>
+			
+<div class="layout-component single-content-area" data-amplitude-link-position="single-column-content">
+	<div class="outer">
+		<div class="inner article-body__body ">	
+			<h2 style="text-align: center;">Engage students in learning through <span style="color: #1368ce;">gamification</span></h2>
+<p style="text-align: center; font-size: 16px; color: #333;">Turn your lessons into interactive experiences that motivate students to actively participate in learning. Incorporate challenges, rewards, and competition in your existing lesson content through a variety of question types and game modes to boost your students’ focus and enthusiasm for learning.</p>
+		</div>
+	</div>
+</div>	<div class="layout-component three_column_items default" data-amplitude-link-position="three-column-item">
+	<div class="outer">
+		<div class="inner inner--narrow">
+		
+			<div class="layout layout--tripple">
+				<div class="layout__inner col-items ">
+
+				
+		<div class="layout__item">
+			<article class="col-item">
+										
+						<div class="col-img-container smaller"><img src="https://kahoot.com/files/2023/06/review_icon.png" alt="" width="64" height="64" /></div>
+											
+				
+				
+				<div class="col-text-container">
+
+								<h1>Review lesson content</h1>
+								</div>
+			</article>
+		</div>
+	
+		<div class="layout__item">
+			<article class="col-item">
+										
+						<div class="col-img-container smaller"><img src="https://kahoot.com/files/2023/06/reinforce_icon.png" alt="" width="81" height="64" /></div>
+											
+				
+				
+				<div class="col-text-container">
+
+								<h1>Reinforce learning</h1>
+								</div>
+			</article>
+		</div>
+	
+		<div class="layout__item">
+			<article class="col-item">
+										
+						<div class="col-img-container smaller"><img src="https://kahoot.com/files/2023/06/focus-icon.png" alt="" width="64" height="64" /></div>
+											
+				
+				
+				<div class="col-text-container">
+
+								<h1>Increase focus and motivation</h1>
+								</div>
+			</article>
+		</div>
+	
+
+
+
+
+	
+	
+				</div>
+			</div>
+	
+	
+		</div>
+	</div>
+</div>	
+<div class="page-break blank-page-break"><div class="outer"><div class="inner"></div></div></div><!-- /page-break -->		</section>
+				<section class="layout-section " style=' background-image: url(https://kahoot.com/files/2023/07/gamemode-bg.png);background-repeat: no-repeat;background-position: center;background-size: cover;'>
+			
+<div class="layout-component single-content-area" data-amplitude-link-position="single-column-content">
+	<div class="outer">
+		<div class="inner article-body__body ">	
+			<h1 style="color: #fff; text-align: center; font-size: 2.5em !important; padding-block: 275px;"><a href="https://create.kahoot.it/discover" style="color: #fff;" target="_blank" rel="noopener">Try out our new game modes</a></h1>
+		</div>
+	</div>
+</div>			</section>
+				<section class="layout-section " style=' '>
+			<div class="layout-component title-block  title-block--smaller-black">
+	<div class="outer">
+		<div class="inner ">
+		<h1 class="hero-title">Get immediate feedback for formative assessment</h1>		
+				</div>
+	</div>
+</div>			
+<div class="layout-component not-in-envelope" data-amplitude-link-position="video-component">
+	<div class="outer">
+		<div class="inner">
+			<div class="text-video-article">
+				<div class="text-image">
+											<div class="text-image__text">
+							<h1 class="hero-title"></h1>
+							<p>Tailor your teaching to the needs of each class and every student. With an understanding of each students performance after every question, you can make adjustments to your lesson in real-time to review any difficult topics. Read the full report after class to get an overview of each individual students progress.</p>
+<p><strong>Use Kahoot! for formative assessment to:</strong></p>
+<ul style="line-height: 1.8;">
+<li style="margin: 0px;">Introduce new topics</li>
+<li style="margin: 0px;">Boost learning outcomes</li>
+<li style="margin: 0px;">Personalize learning</li>
+</ul>
+<p><span> <a class="btn btn--raised btn--blue" href="#plans" target="_self">Get started from $3.99/month</a></span> <span style="margin-left: 10px;"><a href="https://kahoot.com/schools/assessment/"><strong>Learn more</strong></a></span></p>
+													</div>
+										<div class="text-image__image">
+						                
+																<video class="video-component-file" data-lzy-src="https://kahoot.com/files/2023/05/EM-Compressed.mp4" autobuffer autoplay muted loop controls preload="auto" controlslist="nodownload" webkit-playsinline="true" playsinline="true" poster="https://kahoot.com/wp-content/themes/kahoot2017/assets/img/Video_placeholder.png">
+																</video>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</section>
+				<section class="layout-section " style=' '>
+			
+<div class="layout-component single-content-area" data-amplitude-link-position="single-column-content">
+	<div class="outer">
+		<div class="inner article-body__body ">	
+			<div class="quote">
+<p style="text-align: center;">We have a lot of students who create their own kahoots as a review after a unit or even to study for an exam that’s coming up. So it’s great that it’s not just a teacher-led platform but it can be a student-led platform as well.</p>
+<p style="font-size: 13px; text-align: center;"><strong>Ines Manno<br />
+</strong>English Language Learner Teacher</p>
+</div>
+		</div>
+	</div>
+</div>			</section>
+				<section class="layout-section layout-section--bottom" style=' background-color: #ffffff;'>
+			            <div class="layout-component">
+                <div class="outer">
+                    <div class="inner inner--narrow">
+                        <article class="text-image-article  text-image-article--default">
+                            <div class="text-image" data-amplitude-link-position="text-image-block">
+	<div class="text-image__text">
+		<h1></h1>
+		<h2>Put your students at the centre of their learning experience</h2>
+<p>Give your students the tools to create their own learning experiences. Through student choice, autonomy, and collaboration, your students can create, present, and study lesson content on topics of interest in their own words and at their own pace.</p>
+<p><strong>Empower students to create with Kahoot! for:</strong></p>
+<ul>
+<li style="margin: 0px;">In-class knowledge sharing</li>
+<li style="margin: 0px;">Lesson review and test prep</li>
+<li style="margin: 0px;">Collaborative learning</li>
+</ul>
+<p><span> <a class="btn btn--raised btn--blue" href="#plans" target="_self">Get started from $3.99/month</a></span> <span style="margin-left: 10px;"><a href="https://kahoot.com/blog/2023/06/12/student-centered-learning-with-kahoot/"><strong>Learn more</strong></a></span></p>
+			</div>
+	<div class="text-image__image ">
+			
+				<img data-lzy-src="https://kahoot.com/files/2023/07/student_learning_experience.png" src="https://kahoot.com/wp-content/themes/kahoot2017/assets/img/trans.png" alt="" width="" height="" />
+		
+					</div>
+</div>
+
+<div class="text-image" data-amplitude-link-position="text-image-block">
+	<div class="text-image__text">
+		<h1></h1>
+		<h2>Supplement curriculum with premium ready-made content</h2>
+<p>Discover learning content for any subject and grade level created by teachers all around the world and publishers like Disney, National Geographic, Time for Kids, Britannica, and Macmillan Education. Ready to use right away or editable to be made into your own kahoot!</p>
+<p><strong>Join Kahoot! Academy to:</strong></p>
+<ul>
+<li style="margin: 0px;">Get access to premium ready-made content</li>
+<li style="margin: 0px;">Become a verified educator</li>
+<li style="margin: 0px;">Sell your learning content</li>
+</ul>
+<p><span> <a class="btn btn--raised btn--blue" href="#plans" target="_self">Get started from $3.99/month</a></span> <span style="margin-left: 10px;"><a href="https://create.kahoot.it/discover"><strong>Explore ready-made content</strong></a></span></p>
+			</div>
+	<div class="text-image__image ">
+			
+				<img data-lzy-src="https://kahoot.com/files/2023/07/discover_1.png" src="https://kahoot.com/wp-content/themes/kahoot2017/assets/img/trans.png" alt="" width="" height="" />
+		
+					</div>
+</div>
+
+                        </article>
+                    </div>
+                </div>
+            </div>
+        <div class="page-break blank-page-break"><div class="outer"><div class="inner"></div></div></div><!-- /page-break -->		</section>
+				<section class="layout-section " style=' background-color: #ffffff;background-image: url(https://kahoot.com/files/2023/07/gradient-footer-550.png);background-repeat: no-repeat;background-position: bottom;background-size: cover;'>
+			<div class='anchor-wrap' data-amplitude-link-position='anchor'><a name='plans' class='page-anchor'></a></div><div class="offer-banner-v2022">
+		<div class="offer-banner-v2022__img">
+			<img src="https://kahoot.com/files/2020/09/Schools-admins_schoolleader.png" />
+		</div>
+		<div class="offer-banner-v2022__content">
+			<div class="offer-banner-v2022__content--primary">Interested in a site license?</div>
+			<div class="offer-banner-v2022__content--secondary"><p>Get in touch with us to find out more about Kahoot! EDU</p>
+</div>
+							<a href="https://kahoot.com/schools/kahoot-edu-school-districts/#quote" class="offer-banner-v2022__content--button">Get in touch</a>
+					</div><!-- offer-banner__content -->
+</div>
+<div class="layout-component single-content-area" data-amplitude-link-position="single-column-content">
+	<div class="outer">
+		<div class="inner article-body__body ">	
+			<h2 style="text-align: center;">Choose your Kahoot! for schools plan</h2>
+		</div>
+	</div>
+</div>	<div 
+	data-amplitude-link-position="plan-card" 
+	class="layout layout--pricing-cards layout--pricing-cards-v2022 "
+	plan-count="3"
+	>
+		
+
+		<div class="layout__inner">
+							<div class="layout__item layout__item--columns">
+						 
+    <div data-pseudo-label="Annual billing only" data-plan-id="102358" data-functional-selector="pricing-page__card" data-codes='["schools_start12_individual","schools_start_individual"]' class="pc-v2022 pc-v2022--default pc-v2022--blue  ">
+                        <div class="pc-v2022__card-content">
+                        <div class="pc-v2022__title notranslate">Kahoot!+ Start<br>for teachers</div>
+
+            <div class="pc-v2022__price-wrap" >
+                                     <div class="price-v2022">
+                                                <span class="price-v2022__value notranslate"  data-rcjs-exchange-usd="3.99"><small>$</small>3.99</span>
+                                                <span class="price-v2022__pp">per teacher<br /> per month</span>
+                                            </div> 
+                    <div class="pc-v2022-annual-price">
+                                                            <span  data-rcjs-exchange-usd="48" class="notranslate"><small>$</small>48</span><span> billed annually</span>
+                                                    </div>
+                            </div>
+                                                            <div class="pc-v2022__participants">Up to 100 participants per session</div>
+                                            
+             
+                <div class="pc-v2022__actions " >
+                                                                            <a  href="https://create.kahoot.it/upgrade/confirm/?lang=en&plan=schools_start12_individual" class="pc-v2022_btn pc-v2022_btn-- pc-v2022_btn--regular" data-functional-selector="pricing-page__buy-btn" aria-label="Buy now Kahoot!+ Start<br>for teachers">Buy now</a>
+                                        </div>
+
+                                        <div class="pc-v2022__trial-smallprint">
+                <div>&nbsp;</div>            </div>
+                            <div class="pc-v2022__use-case">
+                    <div class="pc-v2022__desc--title">This plan is best for</div>
+                                            <div class="pc-v2022__desc--lower"><a href="#" class="pc-v2022__desc--openmodal" data-modal-target="kahoot-start-teachers-k12">Engaging students in review that doesn't feel repetitive</a></div>
+                                    </div>
+            
+            <div class="pc-v2022__package-features">
+                                    <div class="pc-v2022__desc--title">What's included?</div>
+                                                <div class="pc-v2022__package-features--group">
+                                <div class="pc-v2022__desc--lower">
+                                <a href='javascript:;' data-modal-target='kahoot-start-teachers-k12'>Create memorable lessons</a>                                </div>
+                                                            </div>
+                                                <div class="pc-v2022__package-features--group">
+                                <div class="pc-v2022__desc--lower">
+                                <a href='javascript:;' data-modal-target='kahoot-start-teachers-k12'>Eliminate barriers to learning</a>                                </div>
+                                                            </div>
+                                                </div>
+        </div>
+    </div>
+    					</div>
+									<div class="layout__item layout__item--columns">
+						 
+    <div data-pseudo-label="Annual billing only" data-plan-id="102359" data-functional-selector="pricing-page__card" data-codes='["schools_premier12_individual","schools_premier_individual"]' class="pc-v2022 pc-v2022--highlight pc-v2022--blue  ">
+                            <div class="pc-v2022__highlight-tag pc-v2022__highlight-tag--blue">
+                <span>Most popular - Save over 10%</span>
+            </div>
+                <div class="pc-v2022__card-content">
+                        <div class="pc-v2022__title notranslate">Kahoot!+ Premier <br>for teachers</div>
+
+            <div class="pc-v2022__price-wrap" >
+                                     <div class="price-v2022">
+                                                <span class="price-v2022__value notranslate"  data-rcjs-exchange-usd="7.99"><small>$</small>7.99</span>
+                                                <span class="price-v2022__pp">per teacher<br /> per month</span>
+                                            </div> 
+                    <div class="pc-v2022-annual-price">
+                                                            <span  data-rcjs-exchange-usd="96" class="notranslate"><small>$</small>96</span><span> billed annually</span>
+                                                    </div>
+                            </div>
+                                                            <div class="pc-v2022__participants">Up to 200 participants per session</div>
+                                            
+             
+                <div class="pc-v2022__actions " >
+                                                                            <a  href="https://create.kahoot.it/upgrade/confirm/?lang=en&plan=schools_premier12_individual" class="pc-v2022_btn pc-v2022_btn-- pc-v2022_btn--regular" data-functional-selector="pricing-page__buy-btn" aria-label="Buy now Kahoot!+ Premier <br>for teachers">Buy now</a>
+                                        </div>
+
+                                        <div class="pc-v2022__trial-smallprint">
+                <div>&nbsp;</div>            </div>
+                            <div class="pc-v2022__use-case">
+                    <div class="pc-v2022__desc--title">This plan is best for</div>
+                                            <div class="pc-v2022__desc--lower"><a href="#" class="pc-v2022__desc--openmodal" data-modal-target="kahoot-premier-teachers-k12">Creating lessons that students talk about after class</a></div>
+                                    </div>
+            
+            <div class="pc-v2022__package-features">
+                                    <div class="pc-v2022__desc--title">What's included?</div>
+                                                <div class="pc-v2022__package-features--group">
+                                <div class="pc-v2022__desc--lower">
+                                <a href='javascript:;' data-modal-target='kahoot-premier-teachers-k12'>Gamify student-led learning</a>                                </div>
+                                                            </div>
+                                                <div class="pc-v2022__package-features--group">
+                                <div class="pc-v2022__desc--lower">
+                                <a href='javascript:;' data-modal-target='kahoot-premier-teachers-k12'>Build future-ready learning skills</a>                                </div>
+                                                            </div>
+                                                <div class="pc-v2022__package-features--group">
+                                <div class="pc-v2022__desc--lower">
+                                <a href='javascript:;' data-modal-target='kahoot-premier-teachers-k12'>Enrich your lesson content</a>                                </div>
+                                                            </div>
+                                                </div>
+        </div>
+    </div>
+    					</div>
+									<div class="layout__item layout__item--columns">
+						 
+    <div data-pseudo-label="Annual billing only" data-plan-id="102360" data-functional-selector="pricing-page__card" data-codes='["schools_max12_individual","schools_max_individual"]' class="pc-v2022 pc-v2022--highlight pc-v2022--green  ">
+                            <div class="pc-v2022__highlight-tag pc-v2022__highlight-tag--green">
+                <span>Best value - <i>&nbsp;Now enhanced with AI</i></span>
+            </div>
+                <div class="pc-v2022__card-content">
+                        <div class="pc-v2022__title notranslate">Kahoot!+ Max <br>for teachers</div>
+
+            <div class="pc-v2022__price-wrap" >
+                                     <div class="price-v2022">
+                        <del class='price-v2022__value-strike notranslate'  data-rcjs-exchange-usd='12.99'>$12.99</del>                        <span class="price-v2022__value notranslate"  data-rcjs-exchange-usd="9.87"><small>$</small>9.87</span>
+                                                <span class="price-v2022__pp">per teacher<br /> per month</span>
+                                            </div> 
+                    <div class="pc-v2022-annual-price">
+                        <del  data-rcjs-exchange-usd='156' class='notranslate'>$156</del>                                    <span  data-rcjs-exchange-usd="120" class="notranslate"><small>$</small>120</span><span> billed annually</span>
+                                                    </div>
+                            </div>
+                                                            <div class="pc-v2022__participants">Up to 400 participants per session</div>
+                                            
+             
+                <div class="pc-v2022__actions " >
+                                                                            <a  href="https://create.kahoot.it/upgrade/confirm/?lang=en&plan=schools_max12_individual&coupon=k12bts24_mu" class="pc-v2022_btn pc-v2022_btn-- pc-v2022_btn--regular" data-functional-selector="pricing-page__buy-btn" aria-label="Buy now Kahoot!+ Max <br>for teachers">Buy now</a>
+                                        </div>
+
+                                        <div class="pc-v2022__trial-smallprint">
+                <div>&nbsp;</div>            </div>
+                            <div class="pc-v2022__use-case">
+                    <div class="pc-v2022__desc--title">This plan is best for</div>
+                                            <div class="pc-v2022__desc--lower"><a href="#" class="pc-v2022__desc--openmodal" data-modal-target="kahoot-max-teachers-k12">Delivering the complete Kahoot! experience</a></div>
+                                    </div>
+            
+            <div class="pc-v2022__package-features">
+                                    <div class="pc-v2022__desc--title">What's included?</div>
+                                                <div class="pc-v2022__package-features--group">
+                                <div class="pc-v2022__desc--lower">
+                                <b>Includes early access to AI-assisted kahoot creation</b>                                </div>
+                                                            </div>
+                                                <div class="pc-v2022__package-features--group">
+                                <div class="pc-v2022__desc--lower">
+                                <a href='javascript:;' data-modal-target='kahoot-max-teachers-k12'><span data-plan-recur="annual">Access premium ready-made content</span></a>                                </div>
+                                                            </div>
+                                                <div class="pc-v2022__package-features--group">
+                                <div class="pc-v2022__desc--lower">
+                                <a href='javascript:;' data-modal-target='kahoot-max-teachers-k12'>Help students master learning content</a>                                </div>
+                                                            </div>
+                                                <div class="pc-v2022__package-features--group">
+                                <div class="pc-v2022__desc--lower">
+                                <a href='javascript:;' data-modal-target='kahoot-max-teachers-k12'>Assess student progress</a>                                </div>
+                                                            </div>
+                                                <div class="pc-v2022__package-features--group">
+                                <div class="pc-v2022__desc--lower">
+                                <a href='javascript:;' data-modal-target='kahoot-max-teachers-k12'>Foster classroom culture</a>                                </div>
+                                                            </div>
+                                                </div>
+        </div>
+    </div>
+    					</div>
+						</div>
+		
+</div>	<div class="layout layout--pricing-cards layout--pricing-cards-v2022 layout--pricing-toggle">
+		<div class="layout__inner">
+			<div class="toggle-wrap-v2022 toggle-label-outer-wrap" style="display: none;">
+				<label class="toggle-annual-switch">
+					<input type="checkbox" name="switch-to-monthly-billing" id="switch-to-monthly-billing" aria-label="switch to monthly billing where applicable" data-id="toggle-switch"  data-default="annual">
+					<label for="color_mode" data-on="Monthly" data-off="Annual" class="toggle-annual-switch--inner"></label>
+				</label>
+			</div>
+			<div class='price-panel-vat-note'>All prices include VAT</div>		</div>
+	</div>
+
+	<div class="page-break blank-page-break"><div class="outer"><div class="inner"></div></div></div><!-- /page-break -->		</section>
+		<style>
+
+/*Changes button text color of buttons not in envelope*/
+.mobile-btn-cont a, .not-in-envelope .btn {
+color: #fff;
+}
+
+/*Changes hover state of button inside video component*/
+.not-in-envelope .text-video-article .btn:hover  {
+color: #fff!important;
+}
+
+.mobile-btn-cont a {
+color: #fff;
+}
+
+/*Sets default color for multiple elements*/
+.text-image__text p, .text-image h1, .article-body__body p, .text-image h2, h1, h2, p {
+color: #333;
+}
+
+/*Adds AI badge to pricing cards*/
+.layout--pricing-cards-v2022 .layout__item--columns:nth-of-type(3) {
+    position: relative;
+}
+
+/* Changes VAT message font color to white */
+.price-panel-vat-note {
+color: #fff;
+}
+
+/*Styling for AI badge*/
+.layout--pricing-cards-v2022 .layout__item--columns:nth-of-type(3) .pc-v2022 .pc-v2022__highlight-tag {
+    padding-right: 40px;
+}
+
+/*Styling for AI badge*/
+.layout--pricing-cards-v2022 .layout__item--columns:nth-of-type(3):after {
+    content: ' ';
+    width: 62px;
+    height: 62px;
+    display:block;
+    position: absolute;
+    top: 60px;
+    right: -16px;
+    background-image: url(/wp-content/themes/kahoot2017/assets/img/ai-badge.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    transform: rotate(8deg);
+}
+
+/*Styling for the quote*/
+.quote {
+background-color: #fff; 
+background-image:url("https://kahoot.com/files/2023/07/Boxpurple.png");
+background-size: cover;
+background-repeat: no-repeat;
+padding: 3rem 2rem; 
+border-radius: 15px; 
+box-shadow: 0px 1px 13px 2px rgba(0, 0, 0, 0.05);
+}
+
+/*Changes green tag background to gold*/
+.pc-v2022 .pc-v2022__highlight-tag--green, 
+.features_table-v2022__container .ft-v2022__highlight-tag--green {
+background-color: #f3af56;
+color: #333;
+}
+
+/*Changes green outline to gold*/
+.pc-v2022.pc-v2022--highlight.pc-v2022--green {
+outline-color: #f3af56;
+}
+
+/*Removes padding in first single col component on page*/
+.layout-section:first-of-type .layout-component:first-of-type {
+padding-top: 0;
+}
+
+/*Removes padding on first layout section on page*/
+.layout-section:first-of-type .outer:first-of-type {
+padding: 0;
+}
+
+/*Makes first layout section full width*/
+.layout-section:first-of-type .article-body__body:first-of-type {
+width: auto;
+}
+
+/* Sets the font color for text inside the text-image pair component */
+.text-image__text p, .text-image-article .text-image__text li {
+color: #333;
+}
+
+/*Sets width of video to 100% and adds border radius*/
+video {
+border-radius: 10px;
+width: 100%;
+}
+
+/*Changes padding of green buttons*/
+html .page a.btn.btn--green {
+    padding: 12px 18px;
+}
+
+/*Changes color of blue buttons to purple*/
+html .page a.btn.btn--blue {
+    background-color: #46178F;
+}
+
+/*Removes the raised button style from hero button*/
+.hero-video-boxes .btn.btn--raised:after {
+display: none;
+}
+
+/*Removes margin-bottom from the offer banner component */
+.offer-banner-v2022 {
+margin-bottom: 0;
+}
+
+/*Overwrites the blue page theme*/
+[data-theme=blue] .hero-video-boxes:not(.dv-refreshed_360) {
+background-color: #fff;
+}
+
+/*Overwrites the blue page theme*/
+[data-theme=blue] .hero-video-boxes:not(.dv-refreshed_360) .hero-video-boxes--group::before {
+display: none;
+}
+
+/* Media queries */
+
+@media screen and (max-width: 1265px) {
+.mobile-btn-cont {
+display: flex;
+flex-direction: column;
+gap: 1rem;
+}
+}
+</style>		
+	</section>
+</main>
+
+
+
+
+
+
+
+
+	<footer class="page-footer">
+		<div class="inner">
+			<div class="page-footer__links b-experiment">
+									<div class="page-footer__col page-footer-new__col">
+						<nav class="footer-nav" role="navigation" aria-label="About Navigation" itemscope itemtype="https://schema.org/SiteNavigationElement">
+							<div class="footer-nav__title" tabIndex=0 data-tabindex="0">About</div>
+							<div class="footer-nav__menu">
+																										<li id="menu-item-91968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91968 ">	
+										<a href="https://kahoot.com/company/" itemprop="url">Company</a>
+									</li>
+																										<li id="menu-item-91969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91969 ">	
+										<a href="https://kahoot.com/leadership/" itemprop="url">Leadership</a>
+									</li>
+																										<li id="menu-item-91970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91970 ">	
+										<a href="https://kahoot.com/jobs/" itemprop="url">Careers</a>
+									</li>
+																										<li id="menu-item-91971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91971 ">	
+										<a href="https://kahoot.com/open-positions/" itemprop="url">Open positions</a>
+									</li>
+																										<li id="menu-item-91972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91972 ">	
+										<a href="https://kahoot.com/press/" itemprop="url">Press</a>
+									</li>
+																										<li id="menu-item-91973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91973 ">	
+										<a href="https://kahoot.com/investor/" itemprop="url">Investor relations</a>
+									</li>
+																										<li id="menu-item-95550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95550 ">	
+										<a href="https://kahoot.com/company/events/" itemprop="url">Company events</a>
+									</li>
+																										<li id="menu-item-99810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99810 ">	
+										<a href="https://kahoot.com/contact-sales/" itemprop="url">Contact us</a>
+									</li>
+															</div>
+						</nav>
+					</div>
+									<div class="page-footer__col page-footer-new__col">
+						<nav class="footer-nav" role="navigation" aria-label="Solutions Navigation" itemscope itemtype="https://schema.org/SiteNavigationElement">
+							<div class="footer-nav__title" tabIndex=0 data-tabindex="0">Solutions</div>
+							<div class="footer-nav__menu">
+																										<li id="menu-item-107119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107119 ">	
+										<a href="https://kahoot.com/home/" itemprop="url">At home</a>
+									</li>
+																										<li id="menu-item-107118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107118 ">	
+										<a href="https://kahoot.com/schools/" itemprop="url">At school</a>
+									</li>
+																										<li id="menu-item-92197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92197 ">	
+										<a href="https://kahoot.com/business/" itemprop="url">At work</a>
+									</li>
+																										<li id="menu-item-91978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91978 ">	
+										<a href="https://kahoot.com/academy/" itemprop="url">Academy</a>
+									</li>
+																										<li id="menu-item-92398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92398 ">	
+										<a href="https://kahoot.com/business/enterprise/actimo/" itemprop="url">Actimo</a>
+									</li>
+																										<li id="menu-item-92525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92525 ">	
+										<a href="https://kahoot.com/business/enterprise/motimate/" itemprop="url">Motimate</a>
+									</li>
+																										<li id="menu-item-91981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91981 ">	
+										<a href="https://languagedrops.com/kahoot" itemprop="url">Drops</a>
+									</li>
+																										<li id="menu-item-91982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91982 ">	
+										<a href="/schools/whiteboard-fi/" itemprop="url">Whiteboard.fi</a>
+									</li>
+																										<li id="menu-item-94524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94524 ">	
+										<a href="https://kahoot.com/clever/" itemprop="url">Clever</a>
+									</li>
+															</div>
+						</nav>
+					</div>
+									<div class="page-footer__col page-footer-new__col">
+						<nav class="footer-nav" role="navigation" aria-label="Resources Navigation" itemscope itemtype="https://schema.org/SiteNavigationElement">
+							<div class="footer-nav__title" tabIndex=0 data-tabindex="0">Resources</div>
+							<div class="footer-nav__menu">
+																										<li id="menu-item-91983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91983 ">	
+										<a href="https://kahoot.com/academy/study/" itemprop="url">Explore content</a>
+									</li>
+																										<li id="menu-item-91984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91984 ">	
+										<a href="https://kahoot.com/blog/" itemprop="url">Blog</a>
+									</li>
+																										<li id="menu-item-91985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91985 ">	
+										<a href="https://kahoot.com/webinars/" itemprop="url">Webinars</a>
+									</li>
+																										<li id="menu-item-91986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91986 ">	
+										<a href="https://kahoot.com/certified/" itemprop="url">Kahoot! Certified</a>
+									</li>
+																										<li id="menu-item-91987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91987 new-window">	
+										<a href="https://trust.kahoot.com/" itemprop="url">Trust Center</a>
+									</li>
+																										<li id="menu-item-91988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91988 new-window">	
+										<a href="https://support.kahoot.com/" itemprop="url">Help Center</a>
+									</li>
+																										<li id="menu-item-91989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91989 ">	
+										<a href="https://kahoot.com/library/" itemprop="url">Library</a>
+									</li>
+																										<li id="menu-item-91990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91990 new-window">	
+										<a href="https://shop.kahoot.com" itemprop="url">Shop</a>
+									</li>
+																										<li id="menu-item-91991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91991 ">	
+										<a href="https://kahoot.com/safety-center/" itemprop="url">Safety center</a>
+									</li>
+															</div>
+						</nav>
+					</div>
+									<div class="page-footer__col page-footer-new__col">
+						<nav class="footer-nav" role="navigation" aria-label="Terms and conditions Navigation" itemscope itemtype="https://schema.org/SiteNavigationElement">
+							<div class="footer-nav__title" tabIndex=0 data-tabindex="0">Terms and conditions</div>
+							<div class="footer-nav__menu">
+																										<li id="menu-item-91992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91992 ">	
+										<a href="https://trust.kahoot.com/terms-and-conditions/" itemprop="url">Terms and conditions</a>
+									</li>
+																										<li id="menu-item-91993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91993 ">	
+										<a href="https://trust.kahoot.com/privacy-policy/" itemprop="url">Privacy policy</a>
+									</li>
+																										<li id="menu-item-97248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97248 ">	
+										<a href="https://trust.kahoot.com/kahoot-student-privacy-policy/" itemprop="url">Student privacy policy</a>
+									</li>
+																										<li id="menu-item-91995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91995 ">	
+										<a href="https://trust.kahoot.com/inclusion-and-accessibility-policy/" itemprop="url">Inclusion and accessibility policy</a>
+									</li>
+																										<li id="menu-item-94015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94015 ">	
+										<a href="https://trust.kahoot.com/acceptable-use-policy/" itemprop="url">Acceptable use policy</a>
+									</li>
+																										<li id="menu-item-94014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94014 ">	
+										<a href="https://trust.kahoot.com/cookie-notice/" itemprop="url">Cookie notice</a>
+									</li>
+																										<li id="menu-item-97561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97561 openPreferenceCenter">	
+										<a href="#" itemprop="url">Cookies preference center</a>
+									</li>
+															</div>
+						</nav>
+					</div>
+							</div>
+		</div>
+		<div class="page-footer__links page-footer__links-social-parter">
+									
+			<nav class="footer-nav footer-nav--inline" role="navigation" aria-label="Follow us Navigation" itemscope itemtype="https://schema.org/SiteNavigationElement">
+				<div class="footer-nav__title" tabIndex=0 data-tabindex="0">Follow us</div>
+				<div class="footer-nav__menu">
+					<ul id="menu-follow-us" class=""><li id="menu-item-83" class="social-twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-83"><a target="_blank" rel="noopener" href="https://twitter.com/kahoot" itemprop="url">Twitter</a></li>
+<li id="menu-item-86" class="social-facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-86"><a target="_blank" rel="noopener" href="https://www.facebook.com/getkahoot" itemprop="url">Facebook</a></li>
+<li id="menu-item-85" class="social-linkedin menu-item menu-item-type-custom menu-item-object-custom menu-item-85"><a target="_blank" rel="noopener" href="https://www.linkedin.com/company/kahoot" itemprop="url">LinkedIn</a></li>
+<li id="menu-item-84" class="social-instagram menu-item menu-item-type-custom menu-item-object-custom menu-item-84"><a target="_blank" rel="noopener" href="https://www.instagram.com/kahoot/" itemprop="url">Instagram</a></li>
+<li id="menu-item-11427" class="social-tiktok menu-item menu-item-type-custom menu-item-object-custom menu-item-11427"><a href="https://www.tiktok.com/@kahoot" itemprop="url">TikTok</a></li>
+</ul>				</div>
+			</nav>
+			<div class="partner-logos">
+				<span class="partner-logos__item partner-logos__item--ms">
+					<img src="https://kahoot.com/wp-content/themes/kahoot2017/assets/img/microsoft-edu-partner-badge.svg" alt="Microsfot for education partner" class="ms-education-logo" />
+				</span>
+				<span class="partner-logos__item">
+					<img src="https://kahoot.com/wp-content/themes/kahoot2017/assets/img/google-edu-partner-badge.svg" alt="Google for education partner" class="google-education-logo" />
+				</span>
+			</div>
+		</div>
+		
+
+		<div class="page-footer__base">
+			<span class="copyright">
+			Copyright &copy; 2023, Kahoot! All Rights Reserved.
+			</span>
+
+			<div class="footer-apps-logo">
+				<a href="https://apps.apple.com/app/apple-store/id1131203560?pt=2314983&ct=kahootcom&mt=8" data-tracking-id="apple-mac-store-link" target="_blank">
+					<img src="/wp-content/themes/kahoot2017/assets/img/mac-app-store-badge.svg" width="156" height="40" alt="Download on the Mac Store">
+				</a>
+				<a href="https://itunes.apple.com/app/apple-store/id1131203560?pt=2314983&amp;ct=kahootcommobileapp&amp;mt=8" data-tracking-id="apple-app-store-link">
+					<img src="/wp-content/themes/kahoot2017/assets/img/app-store-badge.svg" width="135" height="40" alt="Download on the App Store">
+				</a>
+				<a href="https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android&amp;referrer=utm_source%3Dkahoot%26utm_campaign%3Dmobileapp" data-tracking-id="google-play-store-link">
+					<img src="/wp-content/themes/kahoot2017/assets/img/google-play-badge.svg" width="135" height="40" alt="Get it on Google Play">
+				</a>
+				<a href="https://appgallery.cloud.huawei.com/marketshare/app/C101520215" data-tracking-id="app-gallery-store-link">
+					<img src="/wp-content/themes/kahoot2017/assets/img/AppGallery.png" width="135" height="40" alt="Explore it on AppGallery">
+				</a>
+				<a href="#top" id="to-top" title="back to top">
+					<img data-lzy-src="https://kahoot.com/wp-content/themes/kahoot2017/assets/img/kahoot-white.svg" src="https://kahoot.com/wp-content/themes/kahoot2017/assets/img/trans.png"  alt="Kahoot!" />
+				</a>
+			</div>
+		</div>
+	</footer>
+<script
+	data-ot-ignore
+  	src="https://code.jquery.com/jquery-3.3.1.min.js"
+  	integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  	crossorigin="anonymous"></script>
+	
+
+
+	</section>
+	<script src="https://www.google.com/recaptcha/api.js?render=6LcbunkeAAAAAJlIKmF1UtfStMz9nB8ahc4rOHur"></script>
+
+	<!-- add these only when needed -->
+	<div class="modal-overlay"></div>
+
+		<script id="k-functions" src="https://kahoot.com/wp-content/themes/kahoot2017/assets/jsv/functions-122cd75f6d.min.js"></script>
+
+
+<script id="exp-scripts">"use strict";</script> 
+	<div id="cookie-msg" style="display:none;">
+		<div class="cookie-message"><a href="javascript:;" data-cookie-dismiss class="cookie-close"></a><div class="cookie-message__inner">			<div class="textwidget">Treats for your browser! We’re serving nice cookies to it so that your next visit to our website is even more awesome. <a href="/privacy-policy/#using-cookies">You can read up more about cookies here.</a></div>
+		<a href="javascript:;" class="btn theme-colour" aria-label="dismiss and agree to cookie message" data-cookie-dismiss>Gotcha, I agree!</a></div></div> 
+	</div>
+
+
+			<div data-amplitude-link-position="footer-banner" class="footer-banner footer-banner--purple footer-banner--onscroll">
+			<div class="footer-banner__inner">
+				<p><strong>Get the all-in-one engagement, teaching, assessment, and review tool with Kahoot!+ Max, now only $9.99/month, save 20%! </strong> <a class="btn btn--raised btn--blue" href="https://kahoot.com/school-maxoffer/" target="_self">Buy now</a></p>
+			</div>
+		</div>
+		<script>
+		document.documentElement.classList.add("footer-banner-visible");
+		</script>
+	 
+
+
+	<a class="scroll-indicator">
+		<div class="scroll-indicator__inner">
+			<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.scroll-ind__bg {fill:#FFFFFF;}
+	.scroll-ind__icon {fill:#333333;}
+</style>
+<g id="Page-1" class="">
+	<g id="blog-post" transform="translate(-492.000000, -718.000000)">
+		<g id="Group-7" transform="translate(492.000000, 718.000000)">
+			<path id="Rectangle-2" class="scroll-ind__bg" d="M20,0L20,0c11,0,20,9,20,20l0,0c0,11-9,20-20,20l0,0C9,40,0,31,0,20l0,0C0,9,9,0,20,0z"/>
+			<path id="dropdown_icon" class="scroll-ind__icon" d="M27.9,18.7c0.2-0.2,0.2-0.6,0-0.9l-1.7-1.6c-0.2-0.2-0.6-0.2-0.9,0L20,21.3l-5.3-5.1
+				c-0.2-0.2-0.6-0.2-0.9,0l-1.7,1.6c-0.2,0.2-0.2,0.6,0,0.9l7.4,7.2c0.2,0.2,0.6,0.2,0.9,0L27.9,18.7z"/>
+		</g>
+	</g>
+</g>
+</svg>
+		</div>
+	</a>
+
+
+
+
+
+
+
+
+
+
+<div class="pricing-modal__wrapper" data-modal-target-id="kahoot-start-teachers-k12">
+    <div class="pricing-modal__content">
+        <div class="pricing-modal__title">Kahoot!+ Start for teachers</div>
+        <div class="pricing-modal__content--wrapper">
+            <div class="pricing-modal__content--column">
+                                    <img src="https://kahoot.com/files/2023/01/IMG_1366-scaled.jpg" class="pricing-modal__image"/>
+                                <div class="pricing-modal__primarytext"></div>
+                <div class="pricing-modal__secondarytext"></div>
+            </div>
+            <div class="pricing-modal__content--column">
+                <div class="pricing-modal__features">
+                                            <div class="pricing-modal__feature">
+                            <div class="pricing-modal__feature--image">
+                                <img src="https://kahoot.com/files/2023/02/create-1.png" />
+                            </div>
+                            <div class="pricing-modal__feature--text">
+                                <div class="pricing-modal__feature--title">Creation set<br><span style="font-weight: 400;">Create memorable lessons</span></div>
+                                <div class="pricing-modal__feature--description"><ul>
+<li>Access to Getty images in Kahoot!</li>
+<li>Teacher guides and resources</li>
+<li>Editable premade kahoots</li>
+<li>Create and host private kahoots</li>
+</ul>
+</div>
+                            </div>
+                        </div>
+                                            <div class="pricing-modal__feature">
+                            <div class="pricing-modal__feature--image">
+                                <img src="https://kahoot.com/files/2023/01/Review-icon.png" />
+                            </div>
+                            <div class="pricing-modal__feature--text">
+                                <div class="pricing-modal__feature--title">Review set<br><span style="font-weight: 400;">Eliminate barriers to learning</span></div>
+                                <div class="pricing-modal__feature--description"><ul>
+<li>Up to 6 answer options</li>
+<li>Multi-select answers</li>
+<li>Puzzle question type</li>
+<li>Add audio to quiz questions</li>
+</ul>
+</div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+        <div class="pricing-modal__button-wrapper">
+            <a href="#" class="pc-v2022_btn" data-trigger="close-modal">Close</a>
+        </div>
+    </div>
+</div>
+<div class="pricing-modal__wrapper" data-modal-target-id="kahoot-premier-teachers-k12">
+    <div class="pricing-modal__content">
+        <div class="pricing-modal__title">Kahoot!+ Premier for teachers</div>
+        <div class="pricing-modal__content--wrapper">
+            <div class="pricing-modal__content--column">
+                                    <img src="https://kahoot.com/files/2023/01/DSC01332-scaled.jpg" class="pricing-modal__image"/>
+                                <div class="pricing-modal__primarytext"></div>
+                <div class="pricing-modal__secondarytext"></div>
+            </div>
+            <div class="pricing-modal__content--column">
+                <div class="pricing-modal__features">
+                                            <div class="pricing-modal__feature">
+                            <div class="pricing-modal__feature--image">
+                                <img src="https://kahoot.com/files/2023/02/engage.png" />
+                            </div>
+                            <div class="pricing-modal__feature--text">
+                                <div class="pricing-modal__feature--title">Engagement set<br><span style="font-weight: 400;">Gamify student-led learning</span></div>
+                                <div class="pricing-modal__feature--description"><ul>
+<li>Student-led game experiences</li>
+<li>Customizable characters</li>
+<li>Fun premade themes</li>
+</ul>
+</div>
+                            </div>
+                        </div>
+                                            <div class="pricing-modal__feature">
+                            <div class="pricing-modal__feature--image">
+                                <img src="https://kahoot.com/files/2023/02/Discussion.png" />
+                            </div>
+                            <div class="pricing-modal__feature--text">
+                                <div class="pricing-modal__feature--title">Feedback set<br><span style="font-weight: 400;">Build future-ready learning skills</span></div>
+                                <div class="pricing-modal__feature--description"><ul>
+<li>Poll questions</li>
+<li>Drop pin responses on images</li>
+<li>Give feedback on a scale (coming soon)</li>
+</ul>
+</div>
+                            </div>
+                        </div>
+                                            <div class="pricing-modal__feature">
+                            <div class="pricing-modal__feature--image">
+                                <img src="https://kahoot.com/files/2023/02/present.png" />
+                            </div>
+                            <div class="pricing-modal__feature--text">
+                                <div class="pricing-modal__feature--title">Presentation set<br><span style="font-weight: 400;">Enrich your lesson content</span></div>
+                                <div class="pricing-modal__feature--description"><ul>
+<li>Advanced slide layouts</li>
+<li>Import existing slides</li>
+<li>PowerPoint integration</li>
+</ul>
+</div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+        <div class="pricing-modal__button-wrapper">
+            <a href="#" class="pc-v2022_btn" data-trigger="close-modal">Close</a>
+        </div>
+    </div>
+</div>
+<div class="pricing-modal__wrapper" data-modal-target-id="kahoot-max-teachers-k12">
+    <div class="pricing-modal__content">
+        <div class="pricing-modal__title">Kahoot!+ Max for teachers</div>
+        <div class="pricing-modal__content--wrapper">
+            <div class="pricing-modal__content--column">
+                                    <img src="https://kahoot.com/files/2023/01/IMG_1330-scaled.jpg" class="pricing-modal__image"/>
+                                <div class="pricing-modal__primarytext"></div>
+                <div class="pricing-modal__secondarytext"></div>
+            </div>
+            <div class="pricing-modal__content--column">
+                <div class="pricing-modal__features">
+                                            <div class="pricing-modal__feature">
+                            <div class="pricing-modal__feature--image">
+                                <img src="https://kahoot.com/files/2023/02/premium-4-simplified.png" />
+                            </div>
+                            <div class="pricing-modal__feature--text">
+                                <div class="pricing-modal__feature--title">Premium content set<br><span style="font-weight: 400;">Supplement your curriculum</span></div>
+                                <div class="pricing-modal__feature--description"><ul>
+<li>Premium ready-made content created by verified educators and publishing partners</li>
+</ul>
+</div>
+                            </div>
+                        </div>
+                                            <div class="pricing-modal__feature">
+                            <div class="pricing-modal__feature--image">
+                                <img src="https://kahoot.com/files/2023/02/mastery.png" />
+                            </div>
+                            <div class="pricing-modal__feature--text">
+                                <div class="pricing-modal__feature--title">Precision set<br><span style="font-weight: 400;">Help students master learning content</span></div>
+                                <div class="pricing-modal__feature--description"><ul>
+<li>Pin answer for graded responses (coming soon)</li>
+<li>Slider questions with correct range</li>
+<li>Type answer for exact wording</li>
+<li>Challenges without deadlines</li>
+</ul>
+</div>
+                            </div>
+                        </div>
+                                            <div class="pricing-modal__feature">
+                            <div class="pricing-modal__feature--image">
+                                <img src="https://kahoot.com/files/2023/02/insights.png" />
+                            </div>
+                            <div class="pricing-modal__feature--text">
+                                <div class="pricing-modal__feature--title">Assessment set<br><span style="font-weight: 400;">Assess student progress</span></div>
+                                <div class="pricing-modal__feature--description"><ul>
+<li>Download student reports</li>
+<li>Combine reports for progress monitoring</li>
+<li>Access entire course reports</li>
+</ul>
+</div>
+                            </div>
+                        </div>
+                                            <div class="pricing-modal__feature">
+                            <div class="pricing-modal__feature--image">
+                                <img src="https://kahoot.com/files/2023/02/customization.png" />
+                            </div>
+                            <div class="pricing-modal__feature--text">
+                                <div class="pricing-modal__feature--title">Classroom culture tools<br><span style="font-weight: 400;">Collaborative learning experiences</span></div>
+                                <div class="pricing-modal__feature--description"><ul>
+<li>Assign custom teams in team modes</li>
+<li>Create custom names for teams</li>
+<li>Personalize kahoots with custom themes</li>
+</ul>
+</div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+        <div class="pricing-modal__button-wrapper">
+            <a href="#" class="pc-v2022_btn" data-trigger="close-modal">Close</a>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="modal-outer overlay-wrapper" data-modal-target-id="overlay" data-overlay-id="107939" data-modal-frequency="daily" data-amplitude-link-position="modal"><div class="modal-inner overlay-dialog overlay-dialog__text-light overlay-dialog__align-center" style="background:url(https://kahoot.com/files/2023/08/bts_overlay_bg.png);background-size:cover;">
+        <a href="javascript:;"  data-overlay="close" class="close-overlay" data-trigger="close-modal" aria-label="close modal" data-dismiss-overlay="107939">&times;</a>
+        <div class="overlay-content">
+            <div class="overlay-content__body"><h1>Get everything you need for back-to-school in one tool with Kahoot!+</h1>
+<p>Save time, simplify lesson planning, and maximize student engagement with AI-enhanced teaching tools and gamified learning experiences!</p>
+<p><strong>Kick off back-to-school with 20% off Kahoot!+ Max, now only $9.99/month until October 31.</strong></p>
+<p> <a class="btn btn--raised " href="https://kahoot.com/school-maxoffer/" target="_self">Buy now</a> <strong><a href="https://kahoot.com/schools/back-to-school-23-basic/#bts-pricing" style="margin-left: 10px;">Learn more</a></strong></p>
+</div>
+            <div class="overlay-content__image"><img src="https://kahoot.com/files/2023/09/pop-upNoBackground_popup-bg2.png" alt=" " role="presentation" /></div>
+        </div>
+    </div></div>
+</body>
+</html>

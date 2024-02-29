@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>-dars</title>
+    <link rel="stylesheet" href="css.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="container">
+        <div class="form-floating mb-3">
+            <input type="email" class="form-control" id="email-input" placeholder="email manzil">
+            <label for="email-input">email manzil</label>
+        </div>
+        <div class="form-floating">
+            <input type="password" class="form-control" id="password-input" placeholder="parol">
+            <label for="password-input">parol</label>
+        </div>
+
+        <hr>
+
+        <form class="form-floating">
+            <input type="email" class="form-control is-invalid" id="invalid-input" placeholder="">
+            <label for="invalid-input">notogri kiritilgan malumot</label>
+        </form>
+
+        <hr>
+
+        <div class="form-floating">
+            <textarea class="form-control" placeholder="izoh qoldirish" id="example-textarea"></textarea>
+            <label for="example-textarea">izohlar</label>
+        </div>
+
+        <hr>
+
+        <div class="form-floating">
+            <select class="form-select" id="select-example" aria-label="floating select">
+                <option selected>select menyuni ochish</option>
+                <option value="1">birinchi</option>
+                <option value="2">ikkinchi</option>
+                <option value="3">uchinchi</option>
+            </select>
+            <label for="select-example">floating select label uchun misol</label>
+        </div>
+
+        <hr>
+
+        <div class="row">
+            <div class="col">
+                <input type="text" class="form-control" placeholder="ism" aria-label="ism">
+            </div>
+            <div class="col">
+                <input type="text" class="form-control" placeholder="familya" aria-label="familya">
+            </div>
+        </div>
+
+        <hr>
+
+        <form class="row g-3">
+            <div class="col-md-6">
+                <label for="email-input" class="form-label">email</label>
+                <input type="email" class="form-control" id="email-input">
+            </div>
+            <div class="col-md-6">
+                <label for="password-input" class="form-label">parol</label>
+                <input type="password" class="form-control" id="password-input">
+            </div>
+            <div class="col-12">
+                <label for="address-input" class="form-label">manzil</label>
+                <input type="text" class="form-control" id="address-input" placeholder="123">
+            </div>
+            <div class="col-12">
+                <label for="address2-input" class="form-label">manzil 2</label>
+                <input type="text" class="form-control" id="address2-input" placeholder="uy">
+            </div>
+            <div class="col-md-6">
+                <label for="city-input" class="form-label">shahar</label>
+                <input type="text" class="form-control" id="city-input">
+            </div>
+            <div class="col-md-4">
+                <label for="district-input" class="form-label">tuman</label>
+                <select id="district-input" class="form-select">
+                    <option selected>tanlang...</option>
+                    <option>....</option>
+                </select>
+            </div>
+            <div class="col-md-2">
+                <label for="zip-input" class="form-label">pochta index</label>
+                <input type="text" class="form-control" id="zip-input" placeholder="123">
+            </div>
+            <div class="col-12">
+                <div class="form-check">
+                    <input  class="form-check-input" type="checkbox" id="grid-check">
+                    <label class="form-check-label" for="grid-check" >belgilang</label>
+                </div>
+            </div>
+            <div class="col-12">
+                <button type="submit" class="btn btn-primary">yuborish</button>
+            </div>
+
+            <hr>
+
+            <div class="row mb-3">
+                <label for="email-input" class="col-sm-2 col-form-label">email</label>
+                <div class="col-sm-10">
+                    <input type="email" class="form-control" id="email-input">
+                </div>
+            </div>
+            <div class="row mb-3">
+                <label for="password-input" class="col-sm-2 col-form-label">parol</label>
+                <div class="col-sm-10">
+                    <input type="password" class="form-control" id="password-input">
+                </div>
+            </div>
+            <fieldset class="row mb-3">
+                <legend class="col-form-label col-sm-2">radios</legend>
+                <div class="col-sm-10">
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="grid-radio-1" id="grid-radio-1">
+                        <label class="form-check-label" for="grid-radio-1">birinchi radio</label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="grid-radio-2" id="grid-radio-2">
+                        <label class="form-check-label" for="grid-radio-2">
+                            ikkinchi radio
+                        </label>
+                    </div>
+                    <div class="form-check-disabled">
+                        <input class="form-check-input" type="radio" name="grid-radio-3" id="grid-radio-3">
+                        <label class="form-check-label" for="grid-radio-3">
+                            uchinchi disabled radio
+                        </label>
+                    </div>
+                </div>
+            </fieldset>
+            <div class="row mb-3">
+                <div class="col-sm-10 offset-sm-2">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" id="grid-check">
+                        <label class="form-check-label" for="grid-check">
+                            checkbox uchun misol
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">royxatdan otish</button>
+        
+        
+        </form>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+  </body>
+</html>

@@ -1,0 +1,85 @@
+div{
+    width: 50px;
+    height: 50px;
+    animation-name: salom;
+    background-color: rgb(145, 145, 255);
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    margin-top: 5px;
+}
+.box1{
+    animation-timing-function: linear;
+    width: 50px;
+    height: 50px;
+    animation-name: mortis;
+    animation-duration: 10s;
+    border: 2px solid;
+    position: relative;
+    
+}
+
+.box2{  animation-timing-function: linear;
+    width: 50px;
+    height: 50px;
+    animation-name: mortis;
+    animation-duration: 10s;
+    border: 2px solid;
+    position: relative;
+    
+
+}
+.box3{
+    animation-timing-function: linear;
+    width: 50px;
+    height: 50px;
+    animation-name: salom;
+    animation-duration: 10s;
+    border: 2px solid;
+    position: relative;
+    
+
+}
+.box4{
+    animation-timing-function: linear;
+    width: 50px;
+    height: 50px;
+    animation-name: salom;
+    animation-duration: 10s;
+    border: 2px solid;
+    position: relative;
+ 
+   
+}
+@keyframes salom {
+
+   0%{
+       left: 50px;
+       top: 200px;
+       background-color: aqua;
+   }
+   70%{
+       top: 150px;
+       background-color: chartreuse;
+   }
+100%{
+    left: 500px;
+    top: 200px;
+    background-color: black;
+}
+}
+@keyframes mortis{
+    0%{
+       left: 100px;
+        right: 100px;
+        top: 155px;
+        background-color: blue;
+    }
+    70%{
+        left: 350px;
+    }
+    100%{
+        left: 500px;
+        top: 155px;
+        background-color: brown;
+    }
+}
